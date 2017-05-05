@@ -20,3 +20,4 @@
 
 ### Cancer database
 * CIVIC   https://civic.genome.wustl.edu/home
+* COSMIC  http://cancer.sanger.ac.uk/cosmic
