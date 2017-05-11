@@ -26,3 +26,10 @@
 ### CNV
 
 * [ascat](https://github.com/Crick-CancerGenomics/ascat) - Allele-specific copy number analysis of tumors
+
+
+
+#### 基因组组装
+* [platanus](http://platanus.bio.titech.ac.jp）   复杂基因组组装
+* [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
+* 
