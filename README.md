@@ -19,8 +19,9 @@
 * annovar http://annovar.openbioinformatics.org/en/latest/
 
 ### Cancer database
-* CIVIC   https://civic.genome.wustl.edu/home
-* COSMIC  http://cancer.sanger.ac.uk/cosmic
+* [CIVIC](https://civic.genome.wustl.edu/home)
+* [COSMIC](http://cancer.sanger.ac.uk/cosmic)
+* [OncoKB](http://oncokb.org)
 
 
 ### CNV
