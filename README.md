@@ -30,7 +30,13 @@
 
 
 
-#### 基因组组装
+### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
-* 
+
+### 基因预测
+* [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
+
+
+### 常用工具
+
