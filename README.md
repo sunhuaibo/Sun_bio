@@ -40,3 +40,4 @@
 
 ### 常用工具
 
+* [STRING](https://string-db.org/cgi/input.pl?UserId=1hcUYxDKX0aK&sessionId=xykqPVdtcqrE&input_page_show_search=off) - 蛋白互作
