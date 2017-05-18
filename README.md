@@ -13,6 +13,7 @@
 * ESP6500 http://evs.gs.washington.edu/EVS/
 * 1000 Genome http://www.internationalgenome.org/home
 * GenomeAD  http://gnomad.broadinstitute.org/  #最全人群频率数据库
+* [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 
 
 ### 注释工具
