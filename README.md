@@ -45,3 +45,4 @@
 * [SetRank](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1571-6) - 富集分析
 * [GSVA](http://bioconductor.org/packages/release/bioc/html/GSVA.html) - 富集分析，可以进行ssGSEA分析
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - This package estimates tumor purity, copy number, and loss of heterozygosity (LOH), and classifies single nucleotide variants (SNVs) by somatic status and clonality.
+* [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
