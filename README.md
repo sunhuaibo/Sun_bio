@@ -31,11 +31,18 @@
 * [OncoKB](http://oncokb.org)
 
 
-### CNV
+### CNV & SNP
 
 * [ascat](https://github.com/Crick-CancerGenomics/ascat) - Allele-specific copy number analysis of tumors
+* [GATK](https://software.broadinstitute.org/gatk/)
+* [VarScan](http://varscan.sourceforge.net/)
+* [samtools](http://www.htslib.org/doc/#manual-pages)
+* [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
+* [bedtools](http://bedtools.readthedocs.io/en/latest/) -  a powerful toolset for genome arithmetic
 
-
+### RNA
+* [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
+* [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
 
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
