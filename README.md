@@ -2,17 +2,21 @@
 
 
 ### 基因查询
-* 突变信息转换 http://bioinformatics.mdanderson.org/transvarweb/
-* Gencode   http://www.gencodegenes.org/
-* Ensemble   http://www.ensembl.org/index.html
-* Uniprob   http://www.uniprot.org/
-* Genecards http://www.genecards.org/
+* 突变信息转换 (http://bioinformatics.mdanderson.org/transvarweb/)
+* [Gencode]   (http://www.gencodegenes.org/)
+* [Ensemble]   (http://www.ensembl.org/index.html)
+* [Uniprob]   (http://www.uniprot.org/)
+* [Genecards](http://www.genecards.org/)
+* [EMBL-EBI](https://www.ebi.ac.uk/)
+* [UCSC](http://genome.ucsc.edu/)
+* [Genome Reference Consortium](https://www.ncbi.nlm.nih.gov/grc)
+* [HGNC](http://www.genenames.org/) - 人类基因组命名委员会
 
 ### 人群平率
-* ExAC   http://exac.broadinstitute.org/
-* ESP6500 http://evs.gs.washington.edu/EVS/
-* 1000 Genome http://www.internationalgenome.org/home
-* GenomeAD  http://gnomad.broadinstitute.org/  #最全人群频率数据库
+* [ExAC]   (http://exac.broadinstitute.org/)
+* [ESP6500] (http://evs.gs.washington.edu/EVS/)
+* [1000 Genome] (http://www.internationalgenome.org/home)
+* [GenomeAD]  (http://gnomad.broadinstitute.org/)  #最全人群频率数据库
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 ### 蛋白数据库
 * [Uniprot](http://www.uniprot.org/)
