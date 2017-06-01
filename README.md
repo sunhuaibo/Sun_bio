@@ -61,6 +61,7 @@
 * [bam-readcount](https://github.com/genome/bam-readcount) - 位点深度统计
 * [sciclone](https://github.com/genome/sciclone) - 克隆进化分析
 * [pyclone](http://compbio.bccrc.ca/software/pyclone/) - 克隆进化分析
+* [Wgsim](https://github.com/lh3/wgsim) - 数据模拟
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
