@@ -47,6 +47,9 @@
 * [SetRank](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1571-6) - 富集分析
 * [GSVA](http://bioconductor.org/packages/release/bioc/html/GSVA.html) - 富集分析，可以进行ssGSEA分析
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - This package estimates tumor purity, copy number, and loss of heterozygosity (LOH), and classifies single nucleotide variants (SNVs) by somatic status and clonality.
+* [bam-readcount](https://github.com/genome/bam-readcount) - 位点深度统计
+* [sciclone](https://github.com/genome/sciclone) - 克隆进化分析
+* [pyclone](http://compbio.bccrc.ca/software/pyclone/) - 克隆进化分析
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
