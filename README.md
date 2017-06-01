@@ -18,6 +18,7 @@
 
 ### 注释工具
 * annovar http://annovar.openbioinformatics.org/en/latest/
+* [HGVS](http://www.hgvs.org/mutnomen/examplesDNA.html) - 基因组注释说明
 
 ### Cancer database
 * [CIVIC](https://civic.genome.wustl.edu/home)
