@@ -16,13 +16,13 @@
 * [ExAC](http://exac.broadinstitute.org/)
 * [ESP6500](http://evs.gs.washington.edu/EVS/)
 * [1000 Genome](http://www.internationalgenome.org/home)
-* [GenomeAD](http://gnomad.broadinstitute.org/)  #最全人群频率数据库
+* [GenomeAD](http://gnomad.broadinstitute.org/) - 最全人群频率数据库
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 ### 蛋白数据库
 * [Uniprot](http://www.uniprot.org/)
 
 ### 注释工具
-* annovar http://annovar.openbioinformatics.org/en/latest/
+* [annovar](http://annovar.openbioinformatics.org/en/latest/)
 * [HGVS](http://varnomen.hgvs.org/) - 基因组注释说明
 
 ### Cancer database
