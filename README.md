@@ -44,12 +44,18 @@
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
 
+* [Xfam](http://rfam.xfam.org/) - RNA数据库
+
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
 
 ### 基因预测
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
+
+### mappinp
+
+* [GSNAP](http://research-pub.gene.com/gmap/)
 
 
 ### 常用工具
