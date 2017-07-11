@@ -39,6 +39,7 @@
 * [samtools](http://www.htslib.org/doc/#manual-pages)
 * [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
 * [bedtools](http://bedtools.readthedocs.io/en/latest/) -  a powerful toolset for genome arithmetic
+* [HMMcopy](http://www.bioconductor.org/packages/release/bioc/html/HMMcopy.html) 
 
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
