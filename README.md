@@ -41,6 +41,8 @@
 * [bedtools](http://bedtools.readthedocs.io/en/latest/) -  a powerful toolset for genome arithmetic
 * [HMMcopy](http://www.bioconductor.org/packages/release/bioc/html/HMMcopy.html) 
 
+* [facets](https://sites.google.com/site/mskfacets/) - CNV for WES
+
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
@@ -69,6 +71,8 @@
 * [sciclone](https://github.com/genome/sciclone) - 克隆进化分析
 * [pyclone](http://compbio.bccrc.ca/software/pyclone/) - 克隆进化分析
 * [Wgsim](https://github.com/lh3/wgsim) - 数据模拟
+
+* [bamgineer](https://github.com/pughlab/bamgineer) - 数据模拟
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
