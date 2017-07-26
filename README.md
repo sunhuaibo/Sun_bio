@@ -56,10 +56,15 @@
 ### 基因预测
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
 
-### mappinp
+### mapping
 
 * [GSNAP](http://research-pub.gene.com/gmap/)
 
+### 进化
+
+* [CITUP](https://github.com/sfu-compbio/citup) - Clonality Inference in Multiple Tumor Samples using Phylogeny
+
+* [deconstructSigs](https://github.com/raerose01/deconstructSigs) - R语言 signature分析
 
 ### 常用工具
 
@@ -77,6 +82,8 @@
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
 * [quinlanlab](http://quinlanlab.org/#portfolioModal6) - Quinlan实验室，分析工具
+
+* [raphael lab](http://compbio.cs.brown.edu/software) - raphael lab 实验室
 
 * [学习网站](https://www.plob.org/) 
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html) - TCGA临床数据下载 
