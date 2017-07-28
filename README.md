@@ -43,6 +43,12 @@
 
 * [facets](https://sites.google.com/site/mskfacets/) - CNV for WES
 
+* [CNVkit](http://cnvkit.readthedocs.io/en/stable/pipeline.html) - CNV分析，基于on-target和off-target
+
+* [CopywriteR](http://www.bioconductor.org/packages/release/bioc/html/CopywriteR.html) - CNV分析，基于off-target
+
+* [DNAcopy](http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html) - CNV分析
+
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
