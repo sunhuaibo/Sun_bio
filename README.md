@@ -49,6 +49,8 @@
 
 * [DNAcopy](http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html) - CNV分析
 
+* [CONTRA](http://contra-cnv.sourceforge.net/) - 目标区域CNV分析
+
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
