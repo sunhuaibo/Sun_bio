@@ -21,6 +21,10 @@
 ### 蛋白数据库
 * [Uniprot](http://www.uniprot.org/)
 
+* [Pfam](http://pfam.xfam.org/)
+
+* [PBD](http://www.rcsb.org/pdb/home/home.do)
+
 ### 注释工具
 * [annovar](http://annovar.openbioinformatics.org/en/latest/)
 * [HGVS](http://varnomen.hgvs.org/) - 基因组注释说明
