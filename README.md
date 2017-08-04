@@ -12,6 +12,8 @@
 * [Genome Reference Consortium](https://www.ncbi.nlm.nih.gov/grc)
 * [HGNC](http://www.genenames.org/) - 人类基因组命名委员会
 
+* [ENCODE](https://www.encodeproject.org/)
+
 ### 人群平率
 * [ExAC](http://exac.broadinstitute.org/)
 * [ESP6500](http://evs.gs.washington.edu/EVS/)
