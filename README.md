@@ -92,6 +92,7 @@
 * [Wgsim](https://github.com/lh3/wgsim) - 数据模拟
 
 * [bamgineer](https://github.com/pughlab/bamgineer) - 数据模拟
+* [btctools](https://github.com/josephhughes/btctools) - 计算ds/dn
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
