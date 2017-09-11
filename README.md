@@ -66,6 +66,8 @@
 * [featureCounts](http://bioinf.wehi.edu.au/featureCounts/) - map到基因的reads统计
 * [htseq](http://htseq.readthedocs.io/en/release_0.9.1/) - map到基因的reads统计htseq-count
 
+* [miRBase](http://www.mirbase.org/) - miRNA数据库
+
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
