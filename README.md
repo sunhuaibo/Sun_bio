@@ -57,6 +57,10 @@
 
 * [CONTRA](http://contra-cnv.sourceforge.net/) - 目标区域CNV分析
 
+* [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
+
+* [breakdancer](http://breakdancer.sourceforge.net/) - genome-wide detection of structural variants from next generation paired-end sequencing reads
+
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
@@ -73,6 +77,9 @@
 * [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) - 基因融合分析工具
 
 * [Trinity_CTAT](https://github.com/NCIP/Trinity_CTAT/wiki) - Trinity Cancer Transcriptome Analysis Toolkit 
+* [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) - RNA-Seq De novo Assembly
+
+* [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - Transcriptome assembly and differential expression analysis for RNA-Seq
 
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
@@ -83,7 +90,7 @@
 
 ### mapping
 
-* [GSNAP](http://research-pub.gene.com/gmap/)
+* [GSNAP](http://research-pub.gene.com/gmap/) - Genomic Short-read Nucleotide Alignment Program
 
 ### 进化
 
