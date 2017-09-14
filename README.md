@@ -68,6 +68,12 @@
 
 * [miRBase](http://www.mirbase.org/) - miRNA数据库
 
+* [STAR](https://github.com/alexdobin/STAR) - RNAseq mapping tools
+
+* [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) - 基因融合分析工具
+
+* [Trinity_CTAT](https://github.com/NCIP/Trinity_CTAT/wiki) - Trinity Cancer Transcriptome Analysis Toolkit 
+
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
