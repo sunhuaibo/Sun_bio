@@ -14,7 +14,7 @@
 
 * [ENCODE](https://www.encodeproject.org/)
 
- [cbioportal](http://www.cbioportal.org/) -  visualization, analysis and download of large-scale cancer genomics data sets.
+* [cbioportal](http://www.cbioportal.org/) -  **visualization, analysis and download of large-scale cancer genomics data sets**
 
 ### 人群平率
 * [ExAC](http://exac.broadinstitute.org/)
