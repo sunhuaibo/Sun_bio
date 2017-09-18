@@ -31,6 +31,8 @@
 
 ### 注释工具
 * [annovar](http://annovar.openbioinformatics.org/en/latest/)
+
+* [Oncotator](http://portals.broadinstitute.org/oncotator/)
 * [HGVS](http://varnomen.hgvs.org/) - 基因组注释说明
 
 ### Cancer database
