@@ -87,6 +87,10 @@
 
 * [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - Transcriptome assembly and differential expression analysis for RNA-Seq
 
+* [GimmeMotifs](http://gimmemotifs.readthedocs.io/en/master/) - motif analysis
+
+* [](http://www.beerlab.org/gkmsvm/) - Enhanced Regulatory Sequence Prediction Using Gapped k-mer Features
+
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
