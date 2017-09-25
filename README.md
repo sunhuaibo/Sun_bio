@@ -89,7 +89,9 @@
 
 * [GimmeMotifs](http://gimmemotifs.readthedocs.io/en/master/) - motif analysis
 
-* [](http://www.beerlab.org/gkmsvm/) - Enhanced Regulatory Sequence Prediction Using Gapped k-mer Features
+* [gkmsvm](http://www.beerlab.org/gkmsvm/) - Enhanced Regulatory Sequence Prediction Using Gapped k-mer Features
+* [](http://meme-suite.org/index.html) - Motif-based sequence analysis tools
+
 
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
