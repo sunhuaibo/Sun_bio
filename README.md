@@ -22,6 +22,8 @@
 * [1000 Genome](http://www.internationalgenome.org/home)
 * [GenomeAD](http://gnomad.broadinstitute.org/) - 最全人群频率数据库
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
+
+* [cngb](https://db.cngb.org/pird/home/) - 华大数据库
 ### 蛋白数据库
 * [Uniprot](http://www.uniprot.org/)
 
