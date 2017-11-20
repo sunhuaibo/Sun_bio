@@ -85,6 +85,7 @@
 * [megahit](https://github.com/voutcn/megahit) - meta组装，速度快内存消耗少
 ### QC
 * [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
+* [fastp](https://github.com/OpenGene/fastp) - 质控软件
 
 ### 基因预测
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
