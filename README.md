@@ -11,10 +11,9 @@
 * [UCSC](http://genome.ucsc.edu/)
 * [Genome Reference Consortium](https://www.ncbi.nlm.nih.gov/grc)
 * [HGNC](http://www.genenames.org/) - 人类基因组命名委员会
-
 * [ENCODE](https://www.encodeproject.org/)
-
 * [cbioportal](http://www.cbioportal.org/) -  **visualization, analysis and download of large-scale cancer genomics data sets**
+* [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 
 ### 人群平率
 * [ExAC](http://exac.broadinstitute.org/)
@@ -22,8 +21,8 @@
 * [1000 Genome](http://www.internationalgenome.org/home)
 * [GenomeAD](http://gnomad.broadinstitute.org/) - 最全人群频率数据库
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
-
 * [cngb](https://db.cngb.org/pird/home/) - 华大数据库
+
 ### 蛋白数据库
 * [Uniprot](http://www.uniprot.org/)
 * [Pfam](http://pfam.xfam.org/)
