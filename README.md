@@ -54,10 +54,13 @@
 * [CopywriteR](http://www.bioconductor.org/packages/release/bioc/html/CopywriteR.html) - CNV分析，基于off-target
 * [DNAcopy](http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html) - CNV分析
 * [CONTRA](http://contra-cnv.sourceforge.net/) - 目标区域CNV分析
+* [copyCat](https://github.com/chrisamiller/copycat) - somatic copy number aberrations
 * [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
 * [breakdancer](http://breakdancer.sourceforge.net/) - genome-wide detection of structural variants from next generation paired-end sequencing reads
 * [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
 
+* [lumpy](https://github.com/arq5x/lumpy-sv) - A probabilistic framework for structural variant discovery
+* [manta](https://github.com/Illumina/manta) - Structural variant and indel caller
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
