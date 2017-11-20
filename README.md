@@ -26,14 +26,11 @@
 * [cngb](https://db.cngb.org/pird/home/) - 华大数据库
 ### 蛋白数据库
 * [Uniprot](http://www.uniprot.org/)
-
 * [Pfam](http://pfam.xfam.org/)
-
 * [PBD](http://www.rcsb.org/pdb/home/home.do)
 
 ### 注释工具
 * [annovar](http://annovar.openbioinformatics.org/en/latest/)
-
 * [Oncotator](http://portals.broadinstitute.org/oncotator/)
 * [HGVS](http://varnomen.hgvs.org/) - 基因组注释说明
 
@@ -42,55 +39,38 @@
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
 * [OncoKB](http://oncokb.org)
 
-
 ### CNV & SNP
 
 * [ascat](https://github.com/Crick-CancerGenomics/ascat) - Allele-specific copy number analysis of tumors
 * [GATK](https://software.broadinstitute.org/gatk/)
 * [VarScan](http://varscan.sourceforge.net/)
+* [strelka](https://github.com/Illumina/strelka) -  fast and accurate small variant caller
 * [samtools](http://www.htslib.org/doc/#manual-pages)
 * [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
 * [bedtools](http://bedtools.readthedocs.io/en/latest/) -  a powerful toolset for genome arithmetic
 * [HMMcopy](http://www.bioconductor.org/packages/release/bioc/html/HMMcopy.html) 
-
 * [facets](https://sites.google.com/site/mskfacets/) - CNV for WES
-
 * [CNVkit](http://cnvkit.readthedocs.io/en/stable/pipeline.html) - CNV分析，基于on-target和off-target
-
 * [CopywriteR](http://www.bioconductor.org/packages/release/bioc/html/CopywriteR.html) - CNV分析，基于off-target
-
 * [DNAcopy](http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html) - CNV分析
-
 * [CONTRA](http://contra-cnv.sourceforge.net/) - 目标区域CNV分析
-
 * [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
-
 * [breakdancer](http://breakdancer.sourceforge.net/) - genome-wide detection of structural variants from next generation paired-end sequencing reads
-
 * [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
 
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
-
 * [Xfam](http://rfam.xfam.org/) - RNA数据库
-
 * [featureCounts](http://bioinf.wehi.edu.au/featureCounts/) - map到基因的reads统计
 * [htseq](http://htseq.readthedocs.io/en/release_0.9.1/) - map到基因的reads统计htseq-count
-
 * [miRBase](http://www.mirbase.org/) - miRNA数据库
-
 * [STAR](https://github.com/alexdobin/STAR) - RNAseq mapping tools
-
 * [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) - 基因融合分析工具
-
 * [Trinity_CTAT](https://github.com/NCIP/Trinity_CTAT/wiki) - Trinity Cancer Transcriptome Analysis Toolkit 
 * [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) - RNA-Seq De novo Assembly
-
 * [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - Transcriptome assembly and differential expression analysis for RNA-Seq
-
 * [GimmeMotifs](http://gimmemotifs.readthedocs.io/en/master/) - motif analysis
-
 * [gkmsvm](http://www.beerlab.org/gkmsvm/) - Enhanced Regulatory Sequence Prediction Using Gapped k-mer Features
 * [](http://meme-suite.org/index.html) - Motif-based sequence analysis tools
 
@@ -113,7 +93,6 @@
 ### 进化
 
 * [CITUP](https://github.com/sfu-compbio/citup) - Clonality Inference in Multiple Tumor Samples using Phylogeny
-
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - R语言 signature分析
 
 ### 常用工具
@@ -126,26 +105,18 @@
 * [sciclone](https://github.com/genome/sciclone) - 克隆进化分析
 * [pyclone](http://compbio.bccrc.ca/software/pyclone/) - 克隆进化分析
 * [Wgsim](https://github.com/lh3/wgsim) - 数据模拟
-
 * [bamgineer](https://github.com/pughlab/bamgineer) - 数据模拟
 * [btctools](https://github.com/josephhughes/btctools) - 计算ds/dn
-
 * [vcf2bed](http://bedops.readthedocs.io/en/latest/content/reference/file-management/conversion/vcf2bed.html)
-
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - signature分析
 * [ESTIMATE](http://bioinformatics.mdanderson.org/main/ESTIMATE:Overview) - is a tool for predicting tumor purity, and the presence of infiltrating stromal/immune cells in tumor tissues using gene expression data. 
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
 * [quinlanlab](http://quinlanlab.org/#portfolioModal6) - Quinlan实验室，分析工具
-
 * [raphael lab](http://compbio.cs.brown.edu/software) - raphael lab 实验室
-
 * [学习网站](https://www.plob.org/) 
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html) - TCGA临床数据下载 
-
 * [cbioportal](http://www.cbioportal.org/) - TCGA临床数据下载
-
 * [perl计算序列相似性](http://www.perlmonks.org/?node_id=500235) - 计算序列的相似性perl
-
 * [alignment_tools](https://en.m.wikipedia.org/wiki/List_of_sequence_alignment_software) - alignment工具总结
