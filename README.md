@@ -2,6 +2,7 @@
 
 * [tcga-code-tables](https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables)
 * [诺禾信息平台](https://disease.novogene.org/homepage/) - 诺禾信息平台
+* [HPO](http://human-phenotype-ontology.github.io/) - Human Phenotype Ontology 人类表型数据库
 
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
@@ -18,6 +19,7 @@
 * [cbioportal](http://www.cbioportal.org/) -  **visualization, analysis and download of large-scale cancer genomics data sets**
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 * [pharmgkb](https://www.pharmgkb.org/) - 药物基因组
+* [DrugBank](https://www.drugbank.ca/) - 药物数据库
 
 ### 人群平率
 * [ExAC](http://exac.broadinstitute.org/)
@@ -26,11 +28,13 @@
 * [GenomeAD](http://gnomad.broadinstitute.org/) - 最全人群频率数据库
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 * [cngb](https://db.cngb.org/pird/home/) - 华大数据库
+* [Orphanet](http://www.orpha.net/consor/cgi-bin/index.php?lng=EN) - 罕见病数据库以及孤儿药物
 
 ### 蛋白数据库
 * [Uniprot](http://www.uniprot.org/)
 * [Pfam](http://pfam.xfam.org/)
 * [PBD](http://www.rcsb.org/pdb/home/home.do)
+* [HPA](http://www.proteinatlas.org/) - Human Protein Atlas 数据库
 
 ### 注释工具
 * [annovar](http://annovar.openbioinformatics.org/en/latest/)
