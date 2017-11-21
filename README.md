@@ -3,6 +3,7 @@
 * [tcga-code-tables](https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables)
 
 ### 基因查询
+* [CDC](https://www.cdc.gov/)
 * [突变信息转换](http://bioinformatics.mdanderson.org/transvarweb/)
 * [Gencode](http://www.gencodegenes.org/)
 * [Ensemble](http://www.ensembl.org/index.html)
