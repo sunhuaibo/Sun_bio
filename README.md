@@ -1,6 +1,7 @@
 # Bioinformatics
 
 * [tcga-code-tables](https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables)
+* [诺禾信息平台](https://disease.novogene.org/homepage/) - 诺禾信息平台
 
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
@@ -16,6 +17,7 @@
 * [ENCODE](https://www.encodeproject.org/)
 * [cbioportal](http://www.cbioportal.org/) -  **visualization, analysis and download of large-scale cancer genomics data sets**
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
+* [pharmgkb](https://www.pharmgkb.org/) - 药物基因组
 
 ### 人群平率
 * [ExAC](http://exac.broadinstitute.org/)
