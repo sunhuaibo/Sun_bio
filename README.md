@@ -20,6 +20,7 @@
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 * [pharmgkb](https://www.pharmgkb.org/) - 药物基因组
 * [DrugBank](https://www.drugbank.ca/) - 药物数据库
+* [DGV](http://dgv.tcag.ca/dgv/app/home) - 收录了健康人群中序列长度大于50bp的结构变异。
 
 ### 人群平率
 * [ExAC](http://exac.broadinstitute.org/)
