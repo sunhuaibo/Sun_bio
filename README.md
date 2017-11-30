@@ -70,6 +70,7 @@
 * [lumpy](https://github.com/arq5x/lumpy-sv) - A probabilistic framework for structural variant discovery
 * [manta](https://github.com/Illumina/manta) - Structural variant and indel caller
 * [MutScan](https://github.com/OpenGene/MutScan) - Detect and visualize target mutations by scanning FastQ files directly
+* [ExomeCNV](https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide) - CNV (Copy-Number Variants) and LOH (Loss of Heterozygosity) from exome sequencing data
 
 ### Gene fusion
 * [GeneFuse](https://github.com/OpenGene/GeneFuse) - Gene fusion detection and visualization
