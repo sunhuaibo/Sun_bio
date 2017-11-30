@@ -41,7 +41,7 @@
 * [annovar](http://annovar.openbioinformatics.org/en/latest/)
 * [Oncotator](http://portals.broadinstitute.org/oncotator/)
 * [HGVS](http://varnomen.hgvs.org/) - 基因组注释说明
-
+* [snpeff](http://snpeff.sourceforge.net/index.html) - Genomic variant annotations and functional effect prediction toolbox. 
 ### Cancer database
 * [CIVIC](https://civic.genome.wustl.edu/home)
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
