@@ -5,6 +5,10 @@
 * [HPO](http://human-phenotype-ontology.github.io/) - Human Phenotype Ontology 人类表型数据库
 * [NGS-Workflows](https://jmazz.me/blog/NGS-Workflows)
 
+# pipeline
+* [Nextflow](https://www.nextflow.io/docs/latest/index.html)
+* [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
+
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
 * [突变信息转换](http://bioinformatics.mdanderson.org/transvarweb/)
