@@ -6,9 +6,14 @@
 * [NGS-Workflows](https://jmazz.me/blog/NGS-Workflows)
 * [gkno](http://gkno.me) - A bioinformatics pipeline launcher
 
-# pipeline
+### pipeline
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
+
+### 倍性与纯度
+
+* [sequenza](https://bitbucket.org/sequenza_tools/sequenza/)
+* [ABSOLUTE](http://archive.broadinstitute.org/cancer/cga/absolute)  - hbsun
 
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
