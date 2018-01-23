@@ -103,6 +103,7 @@
 * [gkmsvm](http://www.beerlab.org/gkmsvm/) - Enhanced Regulatory Sequence Prediction Using Gapped k-mer Features
 * [meme](http://meme-suite.org/index.html) - Motif-based sequence analysis tools
 * [rnacocktail](https://bioinform.github.io/rnacocktail/) - RNA分析流程 DOI: 10.1038/s41467-017-00050-4
+* [MSigDB](http://software.broadinstitute.org/gsea/msigdb) -  a collection of annotated gene sets for use with GSEA software
 
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
