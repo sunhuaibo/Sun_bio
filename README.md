@@ -160,3 +160,4 @@
 * [perl计算序列相似性](http://www.perlmonks.org/?node_id=500235) - 计算序列的相似性perl
 * [alignment_tools](https://en.m.wikipedia.org/wiki/List_of_sequence_alignment_software) - alignment工具总结
 * [intogen](https://www.intogen.org/search) - 可视化
+* [homer](http://homer.ucsd.edu/homer/) - motif
