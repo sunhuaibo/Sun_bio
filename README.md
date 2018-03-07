@@ -90,6 +90,7 @@
 ### RNA
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
 * [stringtie](http://www.ccb.jhu.edu/software/stringtie/) - Transcript assembly and quantification for RNA-Seq
+* [gffread](http://ccb.jhu.edu/software/stringtie/gff.shtml#gffread) - 通过gff文件提取转录本fasta序列
 * [Xfam](http://rfam.xfam.org/) - RNA数据库
 * [featureCounts](http://bioinf.wehi.edu.au/featureCounts/) - map到基因的reads统计
 * [htseq](http://htseq.readthedocs.io/en/release_0.9.1/) - map到基因的reads统计htseq-count
