@@ -10,6 +10,10 @@
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
 
+### 肿瘤数据库
+
+* [GENIE](http://www.aacr.org/research/research/pages/aacr-project-genie.aspx)
+
 ### 倍性与纯度
 
 * [sequenza](https://bitbucket.org/sequenza_tools/sequenza/)
