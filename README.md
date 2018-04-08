@@ -111,6 +111,7 @@
 * [rnacocktail](https://bioinform.github.io/rnacocktail/) - RNA分析流程 DOI: 10.1038/s41467-017-00050-4
 * [MSigDB](http://software.broadinstitute.org/gsea/msigdb) -  a collection of annotated gene sets for use with GSEA software
 * [rbsurv](http://www.bioconductor.org/packages/release/bioc/html/rbsurv.html) - This package selects genes associated with survival. 获取与生存时间相关的基因
+* [WGCNA](https://cran.r-project.org/web/packages/WGCNA/index.html) - WGCNA其译为加权基因共表达网络分析。该分析方法旨在寻找协同表达的基因模块(module)，并探索基因module与关注的表型之间的关联关系，以及网络中的核心基因。
 
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
