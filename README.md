@@ -175,3 +175,4 @@
 
 ### 微生物
 * [kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html) - Kraken taxonomic sequence classification system
+* [microbiology](http://microbiology.se/) - 有一些分析软件
