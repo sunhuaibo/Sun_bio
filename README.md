@@ -125,6 +125,9 @@
 * [fastp](https://github.com/OpenGene/fastp) - 质控软件
 * [AfterQC](https://github.com/OpenGene/AfterQC) - 质控软件
 
+### Mapping
+* [BBmap](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
+
 ### 基因预测
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
 * [msisensor](https://github.com/ding-lab/msisensor) - microsatellite instability detection using paired tumor-normal 微卫星不稳定
