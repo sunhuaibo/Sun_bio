@@ -127,14 +127,17 @@
 
 ### Mapping
 * [BBmap](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
+* [GSNAP](http://research-pub.gene.com/gmap/) - Genomic Short-read Nucleotide Alignment Program
+
+### Call mutation
+* [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
+* [SomaticSniper](http://gmt.genome.wustl.edu/packages/somatic-sniper/)
+* [strelka](https://github.com/Illumina/strelka)
 
 ### 基因预测
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
 * [msisensor](https://github.com/ding-lab/msisensor) - microsatellite instability detection using paired tumor-normal 微卫星不稳定
 * [TransDecoder](https://github.com/TransDecoder/TransDecoder) - CDS预测
-### mapping
-
-* [GSNAP](http://research-pub.gene.com/gmap/) - Genomic Short-read Nucleotide Alignment Program
 
 ### TCR
 
