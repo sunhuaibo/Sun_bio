@@ -95,6 +95,9 @@
 ### Gene fusion
 * [GeneFuse](https://github.com/OpenGene/GeneFuse) - Gene fusion detection and visualization
 
+### MSI
+* [msisensor](https://github.com/ding-lab/msisensor)
+
 ### RNA
 * [rna-seq-strand](https://github.com/igordot/genomics/blob/master/notes/rna-seq-strand.md) - RNA分析链向选择
 * [Hisat2](http://ccb.jhu.edu/software/hisat2/index.shtml) - graph-based alignment of next generation sequencing reads to a population of genomes
