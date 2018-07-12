@@ -8,6 +8,7 @@
 * [Genenteck](https://www.gene.com/stories/) - 一个博客
 * [oncotree](http://oncotree.mskcc.org/#/home) - 肿瘤分类
 * [Cancer today](http://gco.iarc.fr/today/home) - 患病率查询
+* [GeneMANIA](https://genemania.org/) - GeneMANIA helps you predict the function of your favourite genes and gene set
 ### pipeline
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
