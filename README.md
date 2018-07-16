@@ -154,6 +154,7 @@
 
 * [CITUP](https://github.com/sfu-compbio/citup) - Clonality Inference in Multiple Tumor Samples using Phylogeny
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - R语言 signature分析
+* [LICHeE](http://viq854.github.io/lichee/) - Fast and scalable inference of multi-sample cancer lineages
 
 ### 常用工具
 
