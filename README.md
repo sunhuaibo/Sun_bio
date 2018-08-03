@@ -190,3 +190,7 @@
 ### 微生物
 * [kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html) - Kraken taxonomic sequence classification system
 * [microbiology](http://microbiology.se/) - 有一些分析软件
+
+### 甲基化
+* [ChAMP](http://www.bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html) - 甲基化分析
+* [ChAMP](https://blog.csdn.net/joshua_hit/article/details/54982018) - 甲基化博客
