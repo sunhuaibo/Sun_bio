@@ -63,6 +63,7 @@
 * [snpeff](http://snpeff.sourceforge.net/index.html) - Genomic variant annotations and functional effect prediction toolbox. 
 * [Genomic variant annotations and functional effect prediction toolbox. ](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543)
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
+* [mygene](http://docs.mygene.info/en/latest/index.html) - 基因ID转换
 ### Cancer database
 * [CIVIC](https://civic.genome.wustl.edu/home)
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
