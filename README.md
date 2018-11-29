@@ -69,6 +69,9 @@
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
 * [OncoKB](http://oncokb.org)
 
+### QC
+[MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
+
 ### CNV & SNP
 
 * [ascat](https://github.com/Crick-CancerGenomics/ascat) - Allele-specific copy number analysis of tumors
