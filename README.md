@@ -69,8 +69,7 @@
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
 * [OncoKB](http://oncokb.org)
 
-### QC
-[MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
+
 
 ### CNV & SNP
 
@@ -102,6 +101,7 @@
 
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
+* [VisualMSI](https://github.com/OpenGene/VisualMSI)
 
 ### RNA
 * [rna-seq-strand](https://github.com/igordot/genomics/blob/master/notes/rna-seq-strand.md) - RNA分析链向选择
@@ -135,6 +135,7 @@
 * [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
 * [fastp](https://github.com/OpenGene/fastp) - 质控软件
 * [AfterQC](https://github.com/OpenGene/AfterQC) - 质控软件
+* [MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
 
 ### Mapping
 * [BBmap](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
@@ -202,5 +203,3 @@
 ### 驱动基因
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
 * [OncodriveFML](https://bitbucket.org/bbglab/oncodrivefml)
-### MSI
-* [VisualMSI](https://github.com/OpenGene/VisualMSI)
