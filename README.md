@@ -180,6 +180,9 @@
 * [slicer](https://github.com/OpenGene/slicer) - Slice a text file (like FastQ) to smaller files by lines, with gzip supported
 * [Vt](https://genome.sph.umich.edu/wiki/Vt) - a variant tool set that discovers short variants from Next Generation Sequencing data.
 
+* [hgvs](https://github.com/biocommons/hgvs) - 解析hgvs
+
+
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
 * [quinlanlab](http://quinlanlab.org/#portfolioModal6) - Quinlan实验室，分析工具
