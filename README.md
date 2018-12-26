@@ -162,6 +162,8 @@
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - R语言 signature分析
 * [LICHeE](http://viq854.github.io/lichee/) - Fast and scalable inference of multi-sample cancer lineages
 
+* [ExpressBetaDiversity](https://github.com/dparks1134/ExpressBetaDiversity) - 可基于tree计算beta多样性
+
 ### 常用工具
 
 * [STRING](https://string-db.org/cgi/input.pl?UserId=1hcUYxDKX0aK&sessionId=xykqPVdtcqrE&input_page_show_search=off) - 蛋白互作
