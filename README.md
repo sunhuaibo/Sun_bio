@@ -23,6 +23,12 @@
 * [sequenza](https://bitbucket.org/sequenza_tools/sequenza/)
 * [ABSOLUTE](http://archive.broadinstitute.org/cancer/cga/absolute)  - hbsun
 
+### 计算免疫细胞浸润
+* [MCPcounter](https://github.com/ebecht/MCPcounter) - Estimating the population abundance of tissue-infiltrating immune and stromal cell populations using gene expression
+* [xCell](http://xcell.ucsf.edu/) - cell type enrichment analysis from gene expression data for 64 immune and stroma cell types
+* [GSVA](https://github.com/rcastelo/GSVA) - Gene set variation analysis for microarray and RNA-seq data
+* [CIBERSORT](https://cibersort.stanford.edu/) - an estimation of the abundances of member cell types in a mixed cell population, using gene expression data.
+
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
 * [突变信息转换](http://bioinformatics.mdanderson.org/transvarweb/)
@@ -64,6 +70,7 @@
 * [Genomic variant annotations and functional effect prediction toolbox. ](https://genomemedicine.biomedcentral.com/articles/10.1186/gm543)
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
 * [mygene](http://docs.mygene.info/en/latest/index.html) - 基因ID转换
+
 ### Cancer database
 * [CIVIC](https://civic.genome.wustl.edu/home)
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
@@ -131,6 +138,7 @@
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
 * [MECAT](https://github.com/xiaochuanle/MECAT) - 三代组装软件
 * [megahit](https://github.com/voutcn/megahit) - meta组装，速度快内存消耗少
+
 ### QC
 * [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
 * [fastp](https://github.com/OpenGene/fastp) - 质控软件
