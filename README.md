@@ -76,8 +76,6 @@
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
 * [OncoKB](http://oncokb.org)
 
-
-
 ### CNV & SNP
 
 * [ascat](https://github.com/Crick-CancerGenomics/ascat) - Allele-specific copy number analysis of tumors
@@ -216,3 +214,6 @@
 ### 驱动基因
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
 * [OncodriveFML](https://bitbucket.org/bbglab/oncodrivefml)
+
+### 绘图
+* [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html) motif绘图
