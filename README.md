@@ -169,6 +169,7 @@
 * [LICHeE](http://viq854.github.io/lichee/) - Fast and scalable inference of multi-sample cancer lineages
 
 * [ExpressBetaDiversity](https://github.com/dparks1134/ExpressBetaDiversity) - 可基于tree计算beta多样性
+* [phangorn](https://cran.r-project.org/web/packages/phangorn/index.html) - 肿瘤进化
 
 ### 常用工具
 
