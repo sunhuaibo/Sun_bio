@@ -76,14 +76,22 @@
 * [COSMIC](http://cancer.sanger.ac.uk/cosmic)
 * [OncoKB](http://oncokb.org)
 
+
+### Call mutation
+* [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
+* [SomaticSniper](http://gmt.genome.wustl.edu/packages/somatic-sniper/)
+* [strelka](https://github.com/Illumina/strelka)
+* [MutScan](https://github.com/OpenGene/MutScan) - Detect and visualize target mutations by scanning FastQ files directly
+* [VarScan](http://varscan.sourceforge.net/)
+* [VarDict](https://github.com/AstraZeneca-NGS/VarDict)
+* [samtools](http://www.htslib.org/doc/#manual-pages)
+* [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
+
+
 ### CNV & SNP
 
 * [ascat](https://github.com/Crick-CancerGenomics/ascat) - Allele-specific copy number analysis of tumors
 * [GATK](https://software.broadinstitute.org/gatk/)
-* [VarScan](http://varscan.sourceforge.net/)
-* [strelka](https://github.com/Illumina/strelka) -  fast and accurate small variant caller
-* [samtools](http://www.htslib.org/doc/#manual-pages)
-* [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
 * [bedtools](http://bedtools.readthedocs.io/en/latest/) -  a powerful toolset for genome arithmetic
 * [HMMcopy](http://www.bioconductor.org/packages/release/bioc/html/HMMcopy.html) 
 * [facets](https://sites.google.com/site/mskfacets/) - CNV for WES
@@ -98,11 +106,12 @@
 
 * [lumpy](https://github.com/arq5x/lumpy-sv) - A probabilistic framework for structural variant discovery
 * [manta](https://github.com/Illumina/manta) - Structural variant and indel caller
-* [MutScan](https://github.com/OpenGene/MutScan) - Detect and visualize target mutations by scanning FastQ files directly
+
 * [ExomeCNV](https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide) - CNV (Copy-Number Variants) and LOH (Loss of Heterozygosity) from exome sequencing data
 
 ### Gene fusion
 * [GeneFuse](https://github.com/OpenGene/GeneFuse) - Gene fusion detection and visualization
+* [svict](https://github.com/vpc-ccg/svict) - Structural Variation and fusion detection using targeted sequencing data from circulating cell free DNA
 
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
@@ -147,10 +156,6 @@
 * [BBmap](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
 * [GSNAP](http://research-pub.gene.com/gmap/) - Genomic Short-read Nucleotide Alignment Program
 
-### Call mutation
-* [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
-* [SomaticSniper](http://gmt.genome.wustl.edu/packages/somatic-sniper/)
-* [strelka](https://github.com/Illumina/strelka)
 
 ### 基因预测
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
