@@ -112,6 +112,7 @@
 ### Gene fusion
 * [GeneFuse](https://github.com/OpenGene/GeneFuse) - Gene fusion detection and visualization
 * [svict](https://github.com/vpc-ccg/svict) - Structural Variation and fusion detection using targeted sequencing data from circulating cell free DNA
+* [FusionMap](http://www.arrayserver.com/wiki/index.php?title=FusionMap)
 
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
