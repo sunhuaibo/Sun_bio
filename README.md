@@ -223,6 +223,7 @@
 ### 驱动基因
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
 * [OncodriveFML](https://bitbucket.org/bbglab/oncodrivefml)
+* [CovGen](https://github.com/tgen/CovGen) - Creates a target specific exome_full192.coverage.txt file required by MutSig
 
 ### 绘图
 * [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html) motif绘图
