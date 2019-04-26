@@ -141,6 +141,7 @@
 * [rbsurv](http://www.bioconductor.org/packages/release/bioc/html/rbsurv.html) - This package selects genes associated with survival. 获取与生存时间相关的基因
 * [WGCNA](https://cran.r-project.org/web/packages/WGCNA/index.html) - WGCNA其译为加权基因共表达网络分析。该分析方法旨在寻找协同表达的基因模块(module)，并探索基因module与关注的表型之间的关联关系，以及网络中的核心基因。http://www.stat.wisc.edu/~yandell/statgen/ucla/WGCNA/wgcna.html
 * [CIBERSORT ](https://cibersort.stanford.edu/) - to provide an estimation of the abundances of member cell types in a mixed cell population, using gene expression data.
+* [RSEM](https://github.com/deweylab/RSEM) - RNA分析工具
 
 ### 基因组组装
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
