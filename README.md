@@ -12,6 +12,7 @@
 ### pipeline
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
+* [IMPACT-Pipeline](https://impact-pipeline.readthedocs.io/en/latest/)
 
 ### 肿瘤数据库
 
