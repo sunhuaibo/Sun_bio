@@ -25,6 +25,7 @@
 * [ABSOLUTE](http://archive.broadinstitute.org/cancer/cga/absolute)  - hbsun
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - opy number calling and SNV classification using targeted short read sequencing
 * [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purity-ploidy-estimator/README.md) - 纯度和倍性计算
+* [facets](https://github.com/mskcc/facets) - MSKCC的计算纯度和倍性的方法
 
 ### 计算免疫细胞浸润
 * [MCPcounter](https://github.com/ebecht/MCPcounter) - Estimating the population abundance of tissue-infiltrating immune and stromal cell populations using gene expression
