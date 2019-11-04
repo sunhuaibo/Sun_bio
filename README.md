@@ -9,6 +9,7 @@
 * [oncotree](http://oncotree.mskcc.org/#/home) - 肿瘤分类
 * [Cancer today](http://gco.iarc.fr/today/home) - 患病率查询
 * [GeneMANIA](https://genemania.org/) - GeneMANIA helps you predict the function of your favourite genes and gene set
+
 ### pipeline
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
@@ -20,8 +21,7 @@
 * [phangorn](https://github.com/KlausVigo/phangorn) - 肿瘤进化算法
 
 ### 倍性与纯度
-
-* [sequenza](https://bitbucket.org/sequenza_tools/sequenza/)
+* [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
 * [ABSOLUTE](http://archive.broadinstitute.org/cancer/cga/absolute)  - hbsun
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - opy number calling and SNV classification using targeted short read sequencing
 * [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purity-ploidy-estimator/README.md) - 纯度和倍性计算
@@ -35,7 +35,7 @@
 
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
-* [突变信息转换](http://bioinformatics.mdanderson.org/transvarweb/)
+* [transvarweb](http://bioinformatics.mdanderson.org/transvarweb/) MD-anderson开发的注释工具
 * [Gencode](http://www.gencodegenes.org/)
 * [Ensemble](http://www.ensembl.org/index.html)
 * [Uniprob](http://www.uniprot.org/)
@@ -84,7 +84,7 @@
 * [PMKB](https://pmkb.weill.cornell.edu/) - 突变基因临床查询
 * [varsome](https://varsome.com/) - 突变查询数据库
 
-### Call mutation
+### SNV
 * [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
 * [SomaticSniper](http://gmt.genome.wustl.edu/packages/somatic-sniper/)
 * [strelka](https://github.com/Illumina/strelka)
@@ -95,7 +95,7 @@
 * [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
 
 
-### CNV & SNP
+### CNV
 
 * [ascat](https://github.com/Crick-CancerGenomics/ascat) - Allele-specific copy number analysis of tumors
 * [GATK](https://software.broadinstitute.org/gatk/)
@@ -109,7 +109,7 @@
 * [copyCat](https://github.com/chrisamiller/copycat) - somatic copy number aberrations
 * [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
 * [breakdancer](http://breakdancer.sourceforge.net/) - genome-wide detection of structural variants from next generation paired-end sequencing reads
-* [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
+
 
 * [lumpy](https://github.com/arq5x/lumpy-sv) - A probabilistic framework for structural variant discovery
 * [manta](https://github.com/Illumina/manta) - Structural variant and indel caller
@@ -122,6 +122,7 @@
 * [svict](https://github.com/vpc-ccg/svict) - Structural Variation and fusion detection using targeted sequencing data from circulating cell free DNA
 * [FusionMap](http://www.arrayserver.com/wiki/index.php?title=FusionMap)
 * [FACTERA](https://factera.stanford.edu/)
+* [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki)
 
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
