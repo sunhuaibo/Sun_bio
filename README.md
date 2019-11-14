@@ -102,6 +102,7 @@
 * [bedtools](http://bedtools.readthedocs.io/en/latest/) -  a powerful toolset for genome arithmetic
 * [HMMcopy](http://www.bioconductor.org/packages/release/bioc/html/HMMcopy.html) 
 * [facets](https://sites.google.com/site/mskfacets/) - CNV for WES
+* [cnv_facets](https://github.com/dariober/cnv_facets) - 包装的FACETS软件，用于计算CNV、纯度、倍性
 * [CNVkit](http://cnvkit.readthedocs.io/en/stable/pipeline.html) - CNV分析，基于on-target和off-target
 * [CopywriteR](http://www.bioconductor.org/packages/release/bioc/html/CopywriteR.html) - CNV分析，基于off-target
 * [DNAcopy](http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html) - CNV分析
