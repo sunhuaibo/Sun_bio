@@ -117,6 +117,7 @@
 
 * [ExomeCNV](https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide) - CNV (Copy-Number Variants) and LOH (Loss of Heterozygosity) from exome sequencing data
 * [ichorCNA](https://github.com/broadinstitute/ichorCNA) - estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage).
+* [LOHHLA](https://bitbucket.org/mcgranahanlab/lohhla/src/master/)
 
 ### Gene fusion
 * [GeneFuse](https://github.com/OpenGene/GeneFuse) - Gene fusion detection and visualization
