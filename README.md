@@ -256,5 +256,9 @@
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
 
+### 芯片数据分析
+* [samr](https://cran.r-project.org/web/packages/samr/index.html) - 芯片数据分析，置换检验，没有limma的稳健性好
+* [limma](http://www.bioconductor.org/packages/release/bioc/html/limma.html) - 芯片数据分析，线性模型
+
 ### 蛋白分析
 * [OmicsEV](https://github.com/bzhanglab/OmicsEV) - A tool for large scale omics datasets evaluation
