@@ -125,6 +125,7 @@
 * [FusionMap](http://www.arrayserver.com/wiki/index.php?title=FusionMap)
 * [FACTERA](https://factera.stanford.edu/)
 * [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki)
+* [arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data
 
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
