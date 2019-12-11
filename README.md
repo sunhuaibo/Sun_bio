@@ -160,6 +160,7 @@
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
 * [MECAT](https://github.com/xiaochuanle/MECAT) - 三代组装软件
 * [megahit](https://github.com/voutcn/megahit) - meta组装，速度快内存消耗少
+* [wtdbg](https://github.com/lh3/wtdbg2) - 基因组组装 by 李恒
 
 ### QC
 * [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
