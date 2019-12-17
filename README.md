@@ -1,7 +1,6 @@
 # Bioinformatics
 
 * [tcga-code-tables](https://gdc.cancer.gov/resources-tcga-users/tcga-code-tables)
-* [诺禾信息平台](https://disease.novogene.org/homepage/) - 诺禾信息平台
 * [HPO](http://human-phenotype-ontology.github.io/) - Human Phenotype Ontology 人类表型数据库
 * [NGS-Workflows](https://jmazz.me/blog/NGS-Workflows)
 * [gkno](http://gkno.me) - A bioinformatics pipeline launcher
