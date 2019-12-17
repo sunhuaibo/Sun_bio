@@ -65,6 +65,7 @@
 * [Pfam](http://pfam.xfam.org/)
 * [PBD](http://www.rcsb.org/pdb/home/home.do)
 * [HPA](http://www.proteinatlas.org/) - Human Protein Atlas 数据库
+* [Amino acid distance](https://en.wikipedia.org/wiki/Amino_acid_replacement) - 氨基酸之间的距离计算
 
 ### 注释工具
 * [annovar](http://annovar.openbioinformatics.org/en/latest/)
