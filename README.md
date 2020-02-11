@@ -129,6 +129,7 @@
 
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
+* [MANTIS](https://github.com/OSU-SRLab/MANTIS) - Microsatellite Analysis for Normal-Tumor InStability
 * [VisualMSI](https://github.com/OpenGene/VisualMSI)
 
 ### RNA
