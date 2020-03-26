@@ -126,6 +126,8 @@
 * [FACTERA](https://factera.stanford.edu/)
 * [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki)
 * [arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data
+* [FusionCatcher](https://github.com/ndaniel/fusioncatcher) - Finder of Somatic Fusion Genes in RNA-seq data
+
 
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
@@ -266,3 +268,4 @@
 
 ### 蛋白分析
 * [OmicsEV](https://github.com/bzhanglab/OmicsEV) - A tool for large scale omics datasets evaluation
+
