@@ -241,8 +241,10 @@
 * [Parsnp](https://harvest.readthedocs.io/en/latest/index.html) - 细菌/病毒的call SNP
 
 ### 甲基化
-* [ChAMP](http://www.bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html) - 甲基化分析
+* [ChAMP](http://www.bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html) - 甲基化R包
 * [ChAMP](https://blog.csdn.net/joshua_hit/article/details/54982018) - 甲基化博客
+* [Bismark](https://github.com/FelixKrueger/Bismark) - 甲基化比对工具
+
 
 ### 驱动基因
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
