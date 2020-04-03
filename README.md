@@ -277,3 +277,6 @@
 ### 蛋白分析
 * [OmicsEV](https://github.com/bzhanglab/OmicsEV) - A tool for large scale omics datasets evaluation
 
+
+### 聚类
+* [iClusterPlus](https://bioconductor.org/packages/release/bioc/html/iClusterPlus.html) - integrative clustering of multiple genomic data sets
