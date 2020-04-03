@@ -129,6 +129,9 @@
 * [FusionCatcher](https://github.com/ndaniel/fusioncatcher) - Finder of Somatic Fusion Genes in RNA-seq data
 
 
+* [ShatterSeek](https://github.com/parklab/ShatterSeek) - 评估染色体碎裂(chromothripsis)
+* [ChainFinder]() - chromoplexy（一种复杂重排）
+
 ### MSI
 * [msisensor](https://github.com/ding-lab/msisensor)
 * [MANTIS](https://github.com/OSU-SRLab/MANTIS) - Microsatellite Analysis for Normal-Tumor InStability
