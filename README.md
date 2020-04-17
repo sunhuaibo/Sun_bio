@@ -108,6 +108,11 @@
 * [DNAcopy](http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html) - CNV分析
 * [CONTRA](http://contra-cnv.sourceforge.net/) - 目标区域CNV分析
 * [copyCat](https://github.com/chrisamiller/copycat) - somatic copy number aberrations
+
+* [ExomeCNV](https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide) - CNV (Copy-Number Variants) and LOH (Loss of Heterozygosity) from exome sequencing data
+* [ichorCNA](https://github.com/broadinstitute/ichorCNA) - estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage).
+
+### SV
 * [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
 * [breakdancer](http://breakdancer.sourceforge.net/) - genome-wide detection of structural variants from next generation paired-end sequencing reads
 
@@ -115,8 +120,6 @@
 * [lumpy](https://github.com/arq5x/lumpy-sv) - A probabilistic framework for structural variant discovery
 * [manta](https://github.com/Illumina/manta) - Structural variant and indel caller
 
-* [ExomeCNV](https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide) - CNV (Copy-Number Variants) and LOH (Loss of Heterozygosity) from exome sequencing data
-* [ichorCNA](https://github.com/broadinstitute/ichorCNA) - estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage).
 * [LOHHLA](https://bitbucket.org/mcgranahanlab/lohhla/src/master/)
 
 ### Gene fusion
