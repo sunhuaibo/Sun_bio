@@ -241,10 +241,11 @@
 * [intogen](https://www.intogen.org/search) - 可视化
 * [homer](http://homer.ucsd.edu/homer/) - motif
 
-### 微生物
+### 微生物/病毒
 * [kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html) - Kraken taxonomic sequence classification system
 * [microbiology](http://microbiology.se/) - 有一些分析软件
 * [Parsnp](https://harvest.readthedocs.io/en/latest/index.html) - 细菌/病毒的call SNP
+* [fastv](https://github.com/OpenGene/fastv) - 病毒检测
 
 ### 甲基化
 * [ChAMP](http://www.bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html) - 甲基化R包
