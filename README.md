@@ -9,6 +9,8 @@
 * [Cancer today](http://gco.iarc.fr/today/home) - 患病率查询
 * [GeneMANIA](https://genemania.org/) - GeneMANIA helps you predict the function of your favourite genes and gene set
 
+* [bioDBnet](https://biodbnet-abcc.ncifcrf.gov/) - 基因ID转换
+
 ### pipeline
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
