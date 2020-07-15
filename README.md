@@ -272,6 +272,7 @@
 
 ### 单细胞
 * [tracer](https://github.com/Teichlab/tracer) - 单细胞RNAseq测序的TCR分析
+* [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis
 
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
