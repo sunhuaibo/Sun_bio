@@ -33,6 +33,7 @@
 * [xCell](http://xcell.ucsf.edu/) - cell type enrichment analysis from gene expression data for 64 immune and stroma cell types
 * [GSVA](https://github.com/rcastelo/GSVA) - Gene set variation analysis for microarray and RNA-seq data
 * [CIBERSORT](https://cibersort.stanford.edu/) - an estimation of the abundances of member cell types in a mixed cell population, using gene expression data.
+* [TIDE](https://github.com/liulab-dfci/TIDEpy) - 用RNAseq数据计算免疫逃逸的能力
 
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
