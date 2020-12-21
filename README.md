@@ -215,6 +215,7 @@
 * [ExpressBetaDiversity](https://github.com/dparks1134/ExpressBetaDiversity) - 可基于tree计算beta多样性
 * [phangorn](https://cran.r-project.org/web/packages/phangorn/index.html) - 肿瘤进化
 * [clonevol](https://github.com/hdng/clonevol) - Inferring and visualizing clonal evolution in multi-sample cancer sequencing
+* [dndscv](https://github.com/im3sanger/dndscv) - 计算肿瘤样本dn/ds
 
 ### 常用工具
 
