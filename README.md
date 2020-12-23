@@ -35,6 +35,7 @@
 * [CIBERSORT](https://cibersort.stanford.edu/) - an estimation of the abundances of member cell types in a mixed cell population, using gene expression data.
 * [TIDE](https://github.com/liulab-dfci/TIDEpy) - 用RNAseq数据计算免疫逃逸的能力
 * [TIMER](http://timer.cistrome.org/) - 免疫浸润计算
+* [IOBR](https://github.com/IOBR/IOBR) - 集合多种计算免疫微环境的包
 
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
