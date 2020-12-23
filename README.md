@@ -261,6 +261,7 @@
 * [ChAMP](http://www.bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html) - 甲基化R包
 * [ChAMP](https://blog.csdn.net/joshua_hit/article/details/54982018) - 甲基化博客
 * [Bismark](https://github.com/FelixKrueger/Bismark) - 甲基化比对工具
+* [RESET](http://ciriellolab.org/reset/reset.html) - TCGA Pan-cancer甲基化分析工具
 
 
 ### 驱动基因
