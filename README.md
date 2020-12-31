@@ -283,6 +283,7 @@
 * [tracer](https://github.com/Teichlab/tracer) - 单细胞RNAseq测序的TCR分析
 * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis
 * [SingleCell](https://github.com/SGI-LungCancer/SingleCell) - 计算CNV score，可用于区分malignant cell
+* [infercnv](https://github.com/broadinstitute/infercnv) - Inferring copy number alterations from tumor single cell RNA-Seq data
 
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
