@@ -89,6 +89,13 @@
 * [PMKB](https://pmkb.weill.cornell.edu/) - 突变基因临床查询
 * [varsome](https://varsome.com/) - 突变查询数据库
 
+### QC
+* [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
+* [fastp](https://github.com/OpenGene/fastp) - 质控软件
+* [AfterQC](https://github.com/OpenGene/AfterQC) - 质控软件
+* [MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
+* [Conpair](https://github.com/nygenome/Conpair) - 计算肿瘤样本VS对照样本配对和污染情况
+
 ### SNV
 * [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
 * [SomaticSniper](http://gmt.genome.wustl.edu/packages/somatic-sniper/)
@@ -178,12 +185,6 @@
 * [MECAT](https://github.com/xiaochuanle/MECAT) - 三代组装软件
 * [megahit](https://github.com/voutcn/megahit) - meta组装，速度快内存消耗少
 * [wtdbg](https://github.com/lh3/wtdbg2) - 基因组组装 by 李恒
-
-### QC
-* [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
-* [fastp](https://github.com/OpenGene/fastp) - 质控软件
-* [AfterQC](https://github.com/OpenGene/AfterQC) - 质控软件
-* [MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
 
 ### Mapping
 * [BBmap](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
