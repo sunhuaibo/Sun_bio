@@ -281,10 +281,13 @@
 * [miRbase](http://www.mirbase.org/) - the microRNA database
 
 ### 单细胞
+* [single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) - Scripts for "Current best-practices in single-cell RNA-seq: a tutorial"
 * [tracer](https://github.com/Teichlab/tracer) - 单细胞RNAseq测序的TCR分析
 * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis
 * [SingleCell](https://github.com/SGI-LungCancer/SingleCell) - 计算CNV score，可用于区分malignant cell
 * [infercnv](https://github.com/broadinstitute/infercnv) - Inferring copy number alterations from tumor single cell RNA-Seq data
+* [batchbench](https://github.com/cellgeni/batchbench) - BatchBench is a Nextflow workflow for running the following scRNA-Seq data batch effect correction methods
+* [dyno](https://github.com/dynverse/dyno) - 60中轨迹分析
 
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
