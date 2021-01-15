@@ -287,7 +287,10 @@
 * [SingleCell](https://github.com/SGI-LungCancer/SingleCell) - 计算CNV score，可用于区分malignant cell
 * [infercnv](https://github.com/broadinstitute/infercnv) - Inferring copy number alterations from tumor single cell RNA-Seq data
 * [batchbench](https://github.com/cellgeni/batchbench) - BatchBench is a Nextflow workflow for running the following scRNA-Seq data batch effect correction methods
-* [dyno](https://github.com/dynverse/dyno) - 60中轨迹分析
+* [dyno](https://github.com/dynverse/dyno) - 60种轨迹分析
+* [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) - 过滤doublets细胞
+* [DoubletDecon](https://github.com/EDePasquale/DoubletDecon) - 基于反卷积方法去除doublets细胞
+
 
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
