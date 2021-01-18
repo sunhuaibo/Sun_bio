@@ -290,6 +290,7 @@
 * [dyno](https://github.com/dynverse/dyno) - 60种轨迹分析
 * [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) - 过滤doublets细胞
 * [DoubletDecon](https://github.com/EDePasquale/DoubletDecon) - 基于反卷积方法去除doublets细胞
+* [AUCell](https://bioconductor.org/packages/release/bioc/vignettes/AUCell/inst/doc/AUCell.html) - 单细胞的Gene set分析
 
 
 ### signature
