@@ -291,7 +291,9 @@
 * [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) - 过滤doublets细胞
 * [DoubletDecon](https://github.com/EDePasquale/DoubletDecon) - 基于反卷积方法去除doublets细胞
 * [AUCell](https://bioconductor.org/packages/release/bioc/vignettes/AUCell/inst/doc/AUCell.html) - 单细胞的Gene set分析
-
+* [GENIE3](https://bioconductor.org/packages/release/bioc/vignettes/GENIE3/inst/doc/GENIE3.html) - Infer gene regulatory network (GRNs) based on co-expression patterns
+* [RcisTarget](https://bioconductor.org/packages/release/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html) - Transcription factor binding motif enrichment
+* [pySCENIC](https://github.com/aertslab/pySCENIC) - pySCENIC is a lightning-fast python implementation of the SCENIC pipeline which enables biologists to infer transcription factors, gene regulatory networks and cell types from single-cell RNA-seq data.
 
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
