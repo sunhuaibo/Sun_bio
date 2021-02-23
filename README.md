@@ -239,6 +239,7 @@
 
 * [hgvs](https://github.com/biocommons/hgvs) - 解析hgvs
 
+* [deeptools](https://deeptools.readthedocs.io/en/develop/index.html) - tools for exploring deep sequencing data
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
