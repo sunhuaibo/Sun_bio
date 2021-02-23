@@ -264,6 +264,7 @@
 * [ChAMP](https://blog.csdn.net/joshua_hit/article/details/54982018) - 甲基化博客
 * [Bismark](https://github.com/FelixKrueger/Bismark) - 甲基化比对工具
 * [RESET](http://ciriellolab.org/reset/reset.html) - TCGA Pan-cancer甲基化分析工具
+* [MONOD2](https://github.com/dinhdiep/MONOD2) - 甲基化单体型
 
 
 ### 驱动基因
