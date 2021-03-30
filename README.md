@@ -120,7 +120,6 @@
 * [DNAcopy](http://www.bioconductor.org/packages/release/bioc/html/DNAcopy.html) - CNV分析
 * [CONTRA](http://contra-cnv.sourceforge.net/) - 目标区域CNV分析
 * [copyCat](https://github.com/chrisamiller/copycat) - somatic copy number aberrations
-
 * [ExomeCNV](https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide) - CNV (Copy-Number Variants) and LOH (Loss of Heterozygosity) from exome sequencing data
 * [ichorCNA](https://github.com/broadinstitute/ichorCNA) - estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage).
 
@@ -239,10 +238,9 @@
 * [ESTIMATE](http://bioinformatics.mdanderson.org/main/ESTIMATE:Overview) - is a tool for predicting tumor purity, and the presence of infiltrating stromal/immune cells in tumor tissues using gene expression data. 
 * [slicer](https://github.com/OpenGene/slicer) - Slice a text file (like FastQ) to smaller files by lines, with gzip supported
 * [Vt](https://genome.sph.umich.edu/wiki/Vt) - a variant tool set that discovers short variants from Next Generation Sequencing data.
-
 * [hgvs](https://github.com/biocommons/hgvs) - 解析hgvs
-
 * [deeptools](https://deeptools.readthedocs.io/en/develop/index.html) - tools for exploring deep sequencing data
+* [sambamba](https://github.com/biod/sambamba) - bam文件处理工具，类似samtools，速度快
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
