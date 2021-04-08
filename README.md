@@ -16,10 +16,7 @@
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
 * [IMPACT-Pipeline](https://impact-pipeline.readthedocs.io/en/latest/)
 
-### 肿瘤数据库
-
-* [GENIE](http://www.aacr.org/research/research/pages/aacr-project-genie.aspx)
-* [phangorn](https://github.com/KlausVigo/phangorn) - 肿瘤进化算法
+* [maftools](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - Summarize, Analyze and Visualize MAF Files
 
 ### 倍性与纯度
 * [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
@@ -36,6 +33,7 @@
 * [TIDE](https://github.com/liulab-dfci/TIDEpy) - 用RNAseq数据计算免疫逃逸的能力
 * [TIMER](http://timer.cistrome.org/) - 免疫浸润计算
 * [IOBR](https://github.com/IOBR/IOBR) - 集合多种计算免疫微环境的包
+* [ESTIMATE](http://bioinformatics.mdanderson.org/main/ESTIMATE:Overview) - is a tool for predicting tumor purity, and the presence of infiltrating stromal/immune cells in tumor tissues using gene expression data. 
 
 ### 基因查询
 * [CDC](https://www.cdc.gov/)
@@ -121,16 +119,14 @@
 * [CONTRA](http://contra-cnv.sourceforge.net/) - 目标区域CNV分析
 * [copyCat](https://github.com/chrisamiller/copycat) - somatic copy number aberrations
 * [ExomeCNV](https://secure.genome.ucla.edu/index.php/ExomeCNV_User_Guide) - CNV (Copy-Number Variants) and LOH (Loss of Heterozygosity) from exome sequencing data
-* [ichorCNA](https://github.com/broadinstitute/ichorCNA) - estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage).
+* [ichorCNA](https://github.com/broadinstitute/ichorCNA) - estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage)
+* [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - This package estimates tumor purity, copy number, and loss of heterozygosity (LOH), and classifies single nucleotide variants (SNVs) by somatic status and clonality.
 
 ### SV
 * [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
 * [breakdancer](http://breakdancer.sourceforge.net/) - genome-wide detection of structural variants from next generation paired-end sequencing reads
-
-
 * [lumpy](https://github.com/arq5x/lumpy-sv) - A probabilistic framework for structural variant discovery
 * [manta](https://github.com/Illumina/manta) - Structural variant and indel caller
-
 * [LOHHLA](https://bitbucket.org/mcgranahanlab/lohhla/src/master/)
 
 ### Gene fusion
@@ -141,13 +137,11 @@
 * [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki)
 * [arriba](https://github.com/suhrig/arriba) - Fast and accurate gene fusion detection from RNA-Seq data
 * [FusionCatcher](https://github.com/ndaniel/fusioncatcher) - Finder of Somatic Fusion Genes in RNA-seq data
-
-
 * [ShatterSeek](https://github.com/parklab/ShatterSeek) - 评估染色体碎裂(chromothripsis)
 * [ChainFinder]() - chromoplexy（一种复杂重排）
 
 ### MSI
-* [msisensor](https://github.com/ding-lab/msisensor)
+* [Msisensor](https://github.com/ding-lab/msisensor)
 * [MANTIS](https://github.com/OSU-SRLab/MANTIS) - Microsatellite Analysis for Normal-Tumor InStability
 * [VisualMSI](https://github.com/OpenGene/VisualMSI)
 
@@ -188,7 +182,7 @@
 ### Mapping
 * [BBmap](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
 * [GSNAP](http://research-pub.gene.com/gmap/) - Genomic Short-read Nucleotide Alignment Program
-
+* [alignment_tools](https://en.m.wikipedia.org/wiki/List_of_sequence_alignment_software) - alignment工具总结
 
 ### 基因预测
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
@@ -208,34 +202,30 @@
 
 
 ### 进化
-
+* [phangorn](https://github.com/KlausVigo/phangorn) - 肿瘤进化算法
 * [CITUP](https://github.com/sfu-compbio/citup) - Clonality Inference in Multiple Tumor Samples using Phylogeny
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - R语言 signature分析
 * [LICHeE](http://viq854.github.io/lichee/) - Fast and scalable inference of multi-sample cancer lineages
-
 * [ExpressBetaDiversity](https://github.com/dparks1134/ExpressBetaDiversity) - 可基于tree计算beta多样性
 * [phangorn](https://cran.r-project.org/web/packages/phangorn/index.html) - 肿瘤进化
 * [clonevol](https://github.com/hdng/clonevol) - Inferring and visualizing clonal evolution in multi-sample cancer sequencing
 * [dndscv](https://github.com/im3sanger/dndscv) - 计算肿瘤样本dn/ds
+* [btctools](https://github.com/josephhughes/btctools) - 计算ds/dn
 * [treeomics](https://github.com/reiterlab/treeomics) - 构建进化树
 * [MACHINA](https://github.com/raphael-group/machina) - 构建进化树
 * [MOBSTER](https://caravagnalab.github.io/mobster/index.html) - 克隆进化2020
+* [sciclone](https://github.com/genome/sciclone) - 克隆进化分析
+* [pyclone](http://compbio.bccrc.ca/software/pyclone/) - 克隆进化分析
 
 ### 常用工具
 
 * [STRING](https://string-db.org/cgi/input.pl?UserId=1hcUYxDKX0aK&sessionId=xykqPVdtcqrE&input_page_show_search=off) - 蛋白互作
 * [SetRank](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1571-6) - 富集分析
 * [GSVA](http://bioconductor.org/packages/release/bioc/html/GSVA.html) - 富集分析，可以进行ssGSEA分析
-* [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - This package estimates tumor purity, copy number, and loss of heterozygosity (LOH), and classifies single nucleotide variants (SNVs) by somatic status and clonality.
 * [bam-readcount](https://github.com/genome/bam-readcount) - 位点深度统计
-* [sciclone](https://github.com/genome/sciclone) - 克隆进化分析
-* [pyclone](http://compbio.bccrc.ca/software/pyclone/) - 克隆进化分析
 * [Wgsim](https://github.com/lh3/wgsim) - 数据模拟
 * [bamgineer](https://github.com/pughlab/bamgineer) - 数据模拟
-* [btctools](https://github.com/josephhughes/btctools) - 计算ds/dn
 * [vcf2bed](http://bedops.readthedocs.io/en/latest/content/reference/file-management/conversion/vcf2bed.html)
-* [deconstructSigs](https://github.com/raerose01/deconstructSigs) - signature分析
-* [ESTIMATE](http://bioinformatics.mdanderson.org/main/ESTIMATE:Overview) - is a tool for predicting tumor purity, and the presence of infiltrating stromal/immune cells in tumor tissues using gene expression data. 
 * [slicer](https://github.com/OpenGene/slicer) - Slice a text file (like FastQ) to smaller files by lines, with gzip supported
 * [Vt](https://genome.sph.umich.edu/wiki/Vt) - a variant tool set that discovers short variants from Next Generation Sequencing data.
 * [hgvs](https://github.com/biocommons/hgvs) - 解析hgvs
@@ -250,9 +240,8 @@
 * [cgdsr](https://cran.r-project.org/web/packages/cgdsr/index.html) - TCGA临床数据下载 
 * [cbioportal](http://www.cbioportal.org/) - TCGA临床数据下载,数据可视化MutationMapper、OncoPrinter
 * [perl计算序列相似性](http://www.perlmonks.org/?node_id=500235) - 计算序列的相似性perl
-* [alignment_tools](https://en.m.wikipedia.org/wiki/List_of_sequence_alignment_software) - alignment工具总结
 * [intogen](https://www.intogen.org/search) - 可视化
-* [homer](http://homer.ucsd.edu/homer/) - motif
+
 
 ### 微生物/病毒
 * [kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html) - Kraken taxonomic sequence classification system
@@ -266,7 +255,7 @@
 * [Bismark](https://github.com/FelixKrueger/Bismark) - 甲基化比对工具
 * [RESET](http://ciriellolab.org/reset/reset.html) - TCGA Pan-cancer甲基化分析工具
 * [MONOD2](https://github.com/dinhdiep/MONOD2) - 甲基化单体型
-
+* [MethPipe](http://smithlabresearch.org/software/methpipe/) - a computational pipeline for analyzing bisulfite sequencing data
 
 ### 驱动基因
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
@@ -275,11 +264,8 @@
 
 ### 绘图
 * [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html) motif绘图
-
-### TCGA数据分析
-
-* [maftools](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - Summarize, Analyze and Visualize MAF Files
-
+* [homer](http://homer.ucsd.edu/homer/) - motif
+* 
 ### miRNA
 * [miRbase](http://www.mirbase.org/) - the microRNA database
 
@@ -300,6 +286,7 @@
 
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
+* [deconstructSigs](https://github.com/raerose01/deconstructSigs) - signature分析
 
 ### 芯片数据分析
 * [samr](https://cran.r-project.org/web/packages/samr/index.html) - 芯片数据分析，置换检验，没有limma的稳健性好
