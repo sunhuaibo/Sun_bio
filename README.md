@@ -14,6 +14,9 @@
 ### pipeline
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
+* [WDL](https://support.terra.bio/hc/en-us/categories/360001399872)
+* [CWL](https://www.commonwl.org/)
+* [bpipe](http://docs.bpipe.org/)
 * [IMPACT-Pipeline](https://impact-pipeline.readthedocs.io/en/latest/)
 
 * [maftools](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - Summarize, Analyze and Visualize MAF Files
