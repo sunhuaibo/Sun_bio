@@ -92,6 +92,9 @@
 
 ### QC
 * [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
+* [trim_galore ](https://github.com/FelixKrueger/TrimGalore) - 质控去接头软件，包装了cutadapt和fastqc，可以自动识别接头
+* [cutadapt](https://github.com/marcelm/cutadapt) - 去接头软件 
+* [fastqc](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/) - 质控软件
 * [fastp](https://github.com/OpenGene/fastp) - 质控软件
 * [AfterQC](https://github.com/OpenGene/AfterQC) - 质控软件
 * [MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
