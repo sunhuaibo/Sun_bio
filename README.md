@@ -20,6 +20,7 @@
 * [IMPACT-Pipeline](https://impact-pipeline.readthedocs.io/en/latest/)
 
 * [maftools](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - Summarize, Analyze and Visualize MAF Files
+* [cfDNApipe](https://github.com/Honchkrow/cfDNApipe) - cfDNApipe(cell free DNA Pipeline) is an integrated pipeline for analyzing cell-free DNA WGBS/WGS data.
 
 ### 倍性与纯度
 * [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
@@ -109,7 +110,6 @@
 * [VarDict](https://github.com/AstraZeneca-NGS/VarDict)
 * [samtools](http://www.htslib.org/doc/#manual-pages)
 * [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
-
 
 ### CNV
 
