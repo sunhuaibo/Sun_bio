@@ -187,8 +187,10 @@
 * [wtdbg](https://github.com/lh3/wtdbg2) - 基因组组装 by 李恒
 
 ### Mapping
+* [BWA](http://bio-bwa.sourceforge.net/) - BWA is a software package for mapping low-divergent sequences against a large reference genome
 * [BBmap](https://jgi.doe.gov/data-and-tools/bbtools/bb-tools-user-guide/bbmap-guide/)
 * [GSNAP](http://research-pub.gene.com/gmap/) - Genomic Short-read Nucleotide Alignment Program
+* [DRAGMAP](https://github.com/Illumina/DRAGMAP) - Illumina Dragmap is the Dragen mapper/aligner Open Source Software.
 * [alignment_tools](https://en.m.wikipedia.org/wiki/List_of_sequence_alignment_software) - alignment工具总结
 
 ### 基因预测
