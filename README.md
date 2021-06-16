@@ -100,6 +100,7 @@
 * [AfterQC](https://github.com/OpenGene/AfterQC) - 质控软件
 * [MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
 * [Conpair](https://github.com/nygenome/Conpair) - 计算肿瘤样本VS对照样本配对和污染情况
+* [fgbio](https://github.com/fulcrumgenomics/fgbio) - UMI
 
 ### SNV
 * [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
