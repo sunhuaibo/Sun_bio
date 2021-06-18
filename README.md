@@ -242,6 +242,7 @@
 * [hgvs](https://github.com/biocommons/hgvs) - 解析hgvs
 * [deeptools](https://deeptools.readthedocs.io/en/develop/index.html) - tools for exploring deep sequencing data
 * [sambamba](https://github.com/biod/sambamba) - bam文件处理工具，类似samtools，速度快
+* [BamUtil](https://genome.sph.umich.edu/wiki/BamUtil) - bamUtil is a repository that contains several programs that perform operations on SAM/BAM files. 
 
 ### 网站收集
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
