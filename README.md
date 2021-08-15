@@ -13,6 +13,8 @@
 
 ### pipeline
 * [Nextflow](https://www.nextflow.io/docs/latest/index.html)
+* [nextflow-demos](https://github.com/stevekm/nextflow-demos) - Demonstrations of various programming techniques for use inside Nextflow pipelines. 
+* [awesome-nextflow](https://github.com/nextflow-io/awesome-nextflow)
 * [Snakemake](https://snakemake.readthedocs.io/en/stable/index.html)
 * [WDL](https://support.terra.bio/hc/en-us/categories/360001399872)
 * [CWL](https://www.commonwl.org/)
