@@ -25,7 +25,7 @@
 * [cfDNApipe](https://github.com/Honchkrow/cfDNApipe) - cfDNApipe(cell free DNA Pipeline) is an integrated pipeline for analyzing cell-free DNA WGBS/WGS data.
 
 ### 倍性与纯度
-* [sequenza](http://www.cbs.dtu.dk/biotools/sequenza/) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
+* [sequenza](https://cran.r-project.org/web/packages/sequenza/vignettes/sequenza.html#about) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
 * [ABSOLUTE](http://archive.broadinstitute.org/cancer/cga/absolute)  - hbsun
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - opy number calling and SNV classification using targeted short read sequencing
 * [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purity-ploidy-estimator/README.md) - 纯度和倍性计算
