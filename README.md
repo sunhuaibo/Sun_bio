@@ -113,6 +113,7 @@
 * [VarDict](https://github.com/AstraZeneca-NGS/VarDict)
 * [samtools](http://www.htslib.org/doc/#manual-pages)
 * [freebayes](https://github.com/ekg/freebayes) - a haplotype-based variant detector
+* [Mutect2](https://gatk.broadinstitute.org/hc/en-us/articles/4409917447707-Mutect2)
 
 ### CNV
 
@@ -237,6 +238,7 @@
 * [SetRank](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1571-6) - 富集分析
 * [GSVA](http://bioconductor.org/packages/release/bioc/html/GSVA.html) - 富集分析，可以进行ssGSEA分析
 * [bam-readcount](https://github.com/genome/bam-readcount) - 位点深度统计
+* [somaticfreq](https://github.com/PoisonAlien/somaticfreq) - knowledge-based genotyping of targetted somatic variants from the tumor BAM file
 * [Wgsim](https://github.com/lh3/wgsim) - 数据模拟
 * [bamgineer](https://github.com/pughlab/bamgineer) - 数据模拟
 * [vcf2bed](http://bedops.readthedocs.io/en/latest/content/reference/file-management/conversion/vcf2bed.html)
