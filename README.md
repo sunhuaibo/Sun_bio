@@ -288,11 +288,14 @@
 * [miRbase](http://www.mirbase.org/) - the microRNA database
 
 ### 单细胞
+* [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
 * [single-cell-tutorial](https://github.com/theislab/single-cell-tutorial) - Scripts for "Current best-practices in single-cell RNA-seq: a tutorial"
 * [tracer](https://github.com/Teichlab/tracer) - 单细胞RNAseq测序的TCR分析
 * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) - List of software packages (and the people developing these methods) for single-cell data analysis
 * [SingleCell](https://github.com/SGI-LungCancer/SingleCell) - 计算CNV score，可用于区分malignant cell
 * [infercnv](https://github.com/broadinstitute/infercnv) - Inferring copy number alterations from tumor single cell RNA-Seq data
+* [infercnvpy](https://github.com/icbi-lab/infercnvpy) - Scanpy plugin to infer copy number variation (CNV) from single-cell transcriptomics data
+* [copykat](https://github.com/navinlabcode/copykat/) - Inference of genomic copy number and subclonal structure of human tumors from high-throughput single cell RNAseq data
 * [batchbench](https://github.com/cellgeni/batchbench) - BatchBench is a Nextflow workflow for running the following scRNA-Seq data batch effect correction methods
 * [dyno](https://github.com/dynverse/dyno) - 60种轨迹分析
 * [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) - 过滤doublets细胞
@@ -301,7 +304,8 @@
 * [GENIE3](https://bioconductor.org/packages/release/bioc/vignettes/GENIE3/inst/doc/GENIE3.html) - Infer gene regulatory network (GRNs) based on co-expression patterns
 * [RcisTarget](https://bioconductor.org/packages/release/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html) - Transcription factor binding motif enrichment
 * [pySCENIC](https://github.com/aertslab/pySCENIC) - pySCENIC is a lightning-fast python implementation of the SCENIC pipeline which enables biologists to infer transcription factors, gene regulatory networks and cell types from single-cell RNA-seq data.
-
+* [scvelo](https://github.com/theislab/scvelo) - RNA velocity generalized through dynamical modeling
+* [Velocyto ](https://github.com/velocyto-team/velocyto.py) - Velocyto is a library for the analysis of RNA velocity.
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - signature分析
