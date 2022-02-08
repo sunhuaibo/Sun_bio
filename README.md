@@ -170,6 +170,7 @@
 * [miRBase](http://www.mirbase.org/) - miRNA数据库
 * [STAR](https://github.com/alexdobin/STAR) - RNAseq mapping tools
 * [STAR-Fusion](https://github.com/STAR-Fusion/STAR-Fusion/wiki) - 基因融合分析工具
+* [arriba](https://github.com/suhrig/arriba) - Arriba is a command-line tool for the detection of gene fusions from RNA-Seq data.
 * [Trinity_CTAT](https://github.com/NCIP/Trinity_CTAT/wiki) - Trinity Cancer Transcriptome Analysis Toolkit 
 * [Trinity](https://github.com/trinityrnaseq/trinityrnaseq/wiki) - RNA-Seq De novo Assembly
 * [Cufflinks](http://cole-trapnell-lab.github.io/cufflinks/) - Transcriptome assembly and differential expression analysis for RNA-Seq
