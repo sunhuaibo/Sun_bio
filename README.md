@@ -303,6 +303,7 @@
 * [dyno](https://github.com/dynverse/dyno) - 60种轨迹分析
 * [DoubletFinder](https://github.com/chris-mcginnis-ucsf/DoubletFinder) - 过滤doublets细胞
 * [DoubletDecon](https://github.com/EDePasquale/DoubletDecon) - 基于反卷积方法去除doublets细胞
+* [DropletUtils](https://bioconductor.org/packages/release/bioc/html/DropletUtils.html) - Utilities for handling droplet-based single-cell RNA-seq data
 * [AUCell](https://bioconductor.org/packages/release/bioc/vignettes/AUCell/inst/doc/AUCell.html) - 单细胞的Gene set分析
 * [GENIE3](https://bioconductor.org/packages/release/bioc/vignettes/GENIE3/inst/doc/GENIE3.html) - Infer gene regulatory network (GRNs) based on co-expression patterns
 * [RcisTarget](https://bioconductor.org/packages/release/bioc/vignettes/RcisTarget/inst/doc/RcisTarget.html) - Transcription factor binding motif enrichment
