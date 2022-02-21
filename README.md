@@ -307,6 +307,12 @@
 * [pySCENIC](https://github.com/aertslab/pySCENIC) - pySCENIC is a lightning-fast python implementation of the SCENIC pipeline which enables biologists to infer transcription factors, gene regulatory networks and cell types from single-cell RNA-seq data.
 * [scvelo](https://github.com/theislab/scvelo) - RNA velocity generalized through dynamical modeling
 * [Velocyto ](https://github.com/velocyto-team/velocyto.py) - Velocyto is a library for the analysis of RNA velocity.
+* [monocle3](https://cole-trapnell-lab.github.io/monocle3/) - An analysis toolkit for single-cell RNA-seq.
+* [harmony](https://portals.broadinstitute.org/harmony/) - 主要用于数据整合
+* [cellphonedb](https://github.com/Teichlab/cellphonedb) - 细胞通讯
+* [cellchat](http://www.cellchat.org/) - 细胞通讯
+* [stlearn](https://stlearn.readthedocs.io/en/latest/#) - a downstream analysis toolkit for Spatial Transcriptomics data
+
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - signature分析
