@@ -133,6 +133,7 @@
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - This package estimates tumor purity, copy number, and loss of heterozygosity (LOH), and classifies single nucleotide variants (SNVs) by somatic status and clonality.
 * [sequenza](https://cran.r-project.org/web/packages/sequenza/vignettes/sequenza.html) - Copy Number Estimation from Tumor Genome Sequencing Data
 * [ascets](https://github.com/beroukhim-lab/ascets) - Arm-level Somatic Copy-number Events in Targeted Sequencing
+* [CNTools](https://www.bioconductor.org/packages/release/bioc/html/CNTools.html) - Convert segment data into a region by sample matrix to allow for other high level computational analyses.
 
 ### SV
 * [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
