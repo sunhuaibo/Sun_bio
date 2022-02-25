@@ -132,6 +132,7 @@
 * [ichorCNA](https://github.com/broadinstitute/ichorCNA) - estimating the fraction of tumor in cell-free DNA from ultra-low-pass whole genome sequencing (ULP-WGS, 0.1x coverage)
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - This package estimates tumor purity, copy number, and loss of heterozygosity (LOH), and classifies single nucleotide variants (SNVs) by somatic status and clonality.
 * [sequenza](https://cran.r-project.org/web/packages/sequenza/vignettes/sequenza.html) - Copy Number Estimation from Tumor Genome Sequencing Data
+* [ascets](https://github.com/beroukhim-lab/ascets) - Arm-level Somatic Copy-number Events in Targeted Sequencing
 
 ### SV
 * [pindel](https://github.com/genome/pindel) - detect breakpoints of large deletions, medium sized insertions, inversions, tandem duplications 
