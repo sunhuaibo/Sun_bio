@@ -8,7 +8,6 @@
 * [oncotree](http://oncotree.mskcc.org/#/home) - 肿瘤分类
 * [Cancer today](http://gco.iarc.fr/today/home) - 患病率查询
 * [GeneMANIA](https://genemania.org/) - GeneMANIA helps you predict the function of your favourite genes and gene set
-
 * [bioDBnet](https://biodbnet-abcc.ncifcrf.gov/) - 基因ID转换
 
 ### pipeline
@@ -20,7 +19,6 @@
 * [CWL](https://www.commonwl.org/)
 * [bpipe](http://docs.bpipe.org/)
 * [IMPACT-Pipeline](https://impact-pipeline.readthedocs.io/en/latest/)
-
 * [maftools](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - Summarize, Analyze and Visualize MAF Files
 * [cfDNApipe](https://github.com/Honchkrow/cfDNApipe) - cfDNApipe(cell free DNA Pipeline) is an integrated pipeline for analyzing cell-free DNA WGBS/WGS data.
 
