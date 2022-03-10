@@ -234,7 +234,7 @@
 * [pyclone](http://compbio.bccrc.ca/software/pyclone/) - 克隆进化分析
 
 ### 新抗原
-* [MuPeXI]https://github.com/ambj/MuPeXI - Mutant Peptide eXtractor and Informer
+* [MuPeXI](https://github.com/ambj/MuPeXI) - Mutant Peptide eXtractor and Informer
 * [LOHHLA](https://bitbucket.org/mcgranahanlab/lohhla/src/master/)
 
 ### 常用工具
