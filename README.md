@@ -319,6 +319,7 @@
 * [cellphonedb](https://github.com/Teichlab/cellphonedb) - 细胞通讯
 * [cellchat](http://www.cellchat.org/) - 细胞通讯
 * [stlearn](https://stlearn.readthedocs.io/en/latest/#) - a downstream analysis toolkit for Spatial Transcriptomics data
+* [scFusion](https://github.com/XiDsLab/scFusion) - scFusion is a computational pipeline for detecting gene fusions at single-cell resolution. scFusion works on Linux/Mac OS
 
 ### signature
 * [MutationalPatterns](https://bioconductor.org/packages/release/bioc/html/MutationalPatterns.html) - An extensive toolset for the characterization and visualization of a wide range of mutational patterns in base substitution catalogs.
