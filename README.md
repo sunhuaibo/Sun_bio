@@ -335,3 +335,4 @@
 
 ### 聚类
 * [iClusterPlus](https://bioconductor.org/packages/release/bioc/html/iClusterPlus.html) - integrative clustering of multiple genomic data sets
+* [CMSclassifier](https://github.com/Sage-Bionetworks/CMSclassifier) - 肠癌分型
