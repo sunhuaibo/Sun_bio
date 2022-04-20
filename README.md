@@ -150,6 +150,10 @@
 * [FusionCatcher](https://github.com/ndaniel/fusioncatcher) - Finder of Somatic Fusion Genes in RNA-seq data
 * [ShatterSeek](https://github.com/parklab/ShatterSeek) - 评估染色体碎裂(chromothripsis)
 * [ChainFinder]() - chromoplexy（一种复杂重排）
+* [EasyFuse](https://github.com/TRON-Bioinformatics/EasyFuse) - EasyFuse is a pipeline for accurate fusion gene detection from RNA-seq data. 2022
+* [MapSplice2](https://github.com/davidroberson/MapSplice2) (2.2.1)
+* [InFusion](https://bitbucket.org/kokonech/infusion/src/master/) (0.8)
+* [SOAPfuse](https://sourceforge.net/projects/soapfuse/) (1.2.7) 
 
 ### MSI
 * [Msisensor](https://github.com/ding-lab/msisensor)
