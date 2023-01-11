@@ -344,3 +344,8 @@
 ### 聚类
 * [iClusterPlus](https://bioconductor.org/packages/release/bioc/html/iClusterPlus.html) - integrative clustering of multiple genomic data sets
 * [CMSclassifier](https://github.com/Sage-Bionetworks/CMSclassifier) - 肠癌分型
+
+### 甲基化
+* [InfiniumPurify](https://cran.r-project.org/web/packages/InfiniumPurify/index.html) - Estimate and Account for Tumor Purity in Cancer Methylation Data Analysis
+* [minfi](https://bioconductor.org/packages/release/bioc/html/minfi.html) - Analyze Illumina Infinium DNA methylation arrays
+
