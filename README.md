@@ -106,6 +106,7 @@
 
 ### UMI
 * [ConsensusCruncher](https://github.com/pughlab/ConsensusCruncher) - ConsensusCruncher is a tool that suppresses errors in next-generation sequencing data by using unique molecular identifers (UMIs) to amalgamate reads derived from the same DNA template into a consensus sequence.
+* [fgbio](http://fulcrumgenomics.github.io/fgbio/tools/latest/)
 
 ### SNV
 * [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
