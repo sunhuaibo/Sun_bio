@@ -4,7 +4,7 @@
 * [HPO](http://human-phenotype-ontology.github.io/) - Human Phenotype Ontology 人类表型数据库
 * [NGS-Workflows](https://jmazz.me/blog/NGS-Workflows)
 * [gkno](http://gkno.me) - A bioinformatics pipeline launcher
-* [Genenteck](https://www.gene.com/stories/) - 一个博客
+* [Genenteck](https://www.gene.com/stories/)
 * [oncotree](http://oncotree.mskcc.org/#/home) - 肿瘤分类
 * [Cancer today](http://gco.iarc.fr/today/home) - 患病率查询
 * [GeneMANIA](https://genemania.org/) - GeneMANIA helps you predict the function of your favourite genes and gene set
@@ -22,14 +22,14 @@
 * [maftools](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - Summarize, Analyze and Visualize MAF Files
 * [cfDNApipe](https://github.com/Honchkrow/cfDNApipe) - cfDNApipe(cell free DNA Pipeline) is an integrated pipeline for analyzing cell-free DNA WGBS/WGS data.
 
-### 倍性与纯度
+### Purity/ploidy
 * [sequenza](https://cran.r-project.org/web/packages/sequenza/vignettes/sequenza.html#about) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
 * [ABSOLUTE](http://archive.broadinstitute.org/cancer/cga/absolute)  - hbsun
 * [PureCN](http://bioconductor.org/packages/release/bioc/html/PureCN.html) - opy number calling and SNV classification using targeted short read sequencing
 * [PURPLE](https://github.com/hartwigmedical/hmftools/blob/master/purity-ploidy-estimator/README.md) - 纯度和倍性计算
 * [facets](https://github.com/mskcc/facets) - MSKCC的计算纯度和倍性的方法
 
-### 计算免疫细胞浸润
+### Immuno infiltration
 * [MCPcounter](https://github.com/ebecht/MCPcounter) - Estimating the population abundance of tissue-infiltrating immune and stromal cell populations using gene expression
 * [xCell](http://xcell.ucsf.edu/) - cell type enrichment analysis from gene expression data for 64 immune and stroma cell types
 * [GSVA](https://github.com/rcastelo/GSVA) - Gene set variation analysis for microarray and RNA-seq data
@@ -39,7 +39,7 @@
 * [IOBR](https://github.com/IOBR/IOBR) - 集合多种计算免疫微环境的包
 * [ESTIMATE](http://bioinformatics.mdanderson.org/main/ESTIMATE:Overview) - is a tool for predicting tumor purity, and the presence of infiltrating stromal/immune cells in tumor tissues using gene expression data. 
 
-### 基因查询
+### Genome-related web
 * [CDC](https://www.cdc.gov/)
 * [transvarweb](http://bioinformatics.mdanderson.org/transvarweb/) MD-anderson开发的注释工具
 * [Gencode](http://www.gencodegenes.org/)
@@ -57,7 +57,7 @@
 * [DrugBank](https://www.drugbank.ca/) - 药物数据库
 * [DGV](http://dgv.tcag.ca/dgv/app/home) - 收录了健康人群中序列长度大于50bp的结构变异。
 
-### 人群平率
+### Database
 * [ExAC](http://exac.broadinstitute.org/)
 * [ESP6500](http://evs.gs.washington.edu/EVS/)
 * [1000 Genome](http://www.internationalgenome.org/home)
@@ -66,14 +66,23 @@
 * [cngb](https://db.cngb.org/pird/home/) - 华大数据库
 * [Orphanet](http://www.orpha.net/consor/cgi-bin/index.php?lng=EN) - 罕见病数据库以及孤儿药物
 
-### 蛋白数据库
+### Cancer database
+* [CIVIC](https://civic.genome.wustl.edu/home)
+* [COSMIC](http://cancer.sanger.ac.uk/cosmic)
+* [OncoKB](http://oncokb.org)
+* [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases)
+* [PMKB](https://pmkb.weill.cornell.edu/) - 突变基因临床查询
+* [varsome](https://varsome.com/) - 突变查询数据库
+
+### Protein
 * [Uniprot](http://www.uniprot.org/)
 * [Pfam](http://pfam.xfam.org/)
 * [PBD](http://www.rcsb.org/pdb/home/home.do)
 * [HPA](http://www.proteinatlas.org/) - Human Protein Atlas 数据库
 * [Amino acid distance](https://en.wikipedia.org/wiki/Amino_acid_replacement) - 氨基酸之间的距离计算
+* [OmicsEV](https://github.com/bzhanglab/OmicsEV) - A tool for large scale omics datasets evaluation
 
-### 注释工具
+### Annotation
 * [annovar](http://annovar.openbioinformatics.org/en/latest/)
 * [Oncotator](http://portals.broadinstitute.org/oncotator/)
 * [HGVS](http://varnomen.hgvs.org/) - 基因组注释说明
@@ -83,13 +92,6 @@
 * [mygene](http://docs.mygene.info/en/latest/index.html) - 基因ID转换
 * [transvar](https://transvar.readthedocs.io/en/latest/index.html) - MD Anderson开发的注释工具
 
-### Cancer database
-* [CIVIC](https://civic.genome.wustl.edu/home)
-* [COSMIC](http://cancer.sanger.ac.uk/cosmic)
-* [OncoKB](http://oncokb.org)
-* [awesome-cancer-variant-databases](https://github.com/seandavi/awesome-cancer-variant-databases)
-* [PMKB](https://pmkb.weill.cornell.edu/) - 突变基因临床查询
-* [varsome](https://varsome.com/) - 突变查询数据库
 
 ### QC
 * [trimmomatic](http://www.usadellab.org/cms/index.php?page=trimmomatic) - 去接头软件
@@ -101,6 +103,9 @@
 * [MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
 * [Conpair](https://github.com/nygenome/Conpair) - 计算肿瘤样本VS对照样本配对和污染情况
 * [fgbio](https://github.com/fulcrumgenomics/fgbio) - UMI
+
+### UMI
+* [ConsensusCruncher](https://github.com/pughlab/ConsensusCruncher) - ConsensusCruncher is a tool that suppresses errors in next-generation sequencing data by using unique molecular identifers (UMIs) to amalgamate reads derived from the same DNA template into a consensus sequence.
 
 ### SNV
 * [MuSE](http://bioinformatics.mdanderson.org/main/MuSE)  MD Anderson
@@ -188,7 +193,7 @@
 * [CIBERSORT ](https://cibersort.stanford.edu/) - to provide an estimation of the abundances of member cell types in a mixed cell population, using gene expression data.
 * [RSEM](https://github.com/deweylab/RSEM) - RNA分析工具
 
-### 基因组组装
+### Genome assembly
 * [platanus](http://platanus.bio.titech.ac.jp)  复杂基因组组装
 * [allpath](http://software.broadinstitute.org/allpaths-lg/blog/)  
 * [MECAT](https://github.com/xiaochuanle/MECAT) - 三代组装软件
@@ -202,9 +207,8 @@
 * [DRAGMAP](https://github.com/Illumina/DRAGMAP) - Illumina Dragmap is the Dragen mapper/aligner Open Source Software.
 * [alignment_tools](https://en.m.wikipedia.org/wiki/List_of_sequence_alignment_software) - alignment工具总结
 
-### 基因预测
+### Predict genes
 * [AUGUSTUS](http://bioinf.uni-greifswald.de/augustus/) - AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences
-* [msisensor](https://github.com/ding-lab/msisensor) - microsatellite instability detection using paired tumor-normal 微卫星不稳定
 * [TransDecoder](https://github.com/TransDecoder/TransDecoder) - CDS预测
 
 ### TCR
@@ -221,7 +225,7 @@
 * [TRUST4](https://github.com/liulab-dfci/TRUST4) - TRUST is a computational tool to analyze TCR and BCR sequences using unselected RNA sequencing data
 
 
-### 进化
+### Evolution
 * [phangorn](https://github.com/KlausVigo/phangorn) - 肿瘤进化算法
 * [CITUP](https://github.com/sfu-compbio/citup) - Clonality Inference in Multiple Tumor Samples using Phylogeny
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - R语言 signature分析
@@ -240,11 +244,11 @@
 * [TimeScape](https://bioconductor.org/packages/release/bioc/vignettes/timescape/inst/doc/timescape_vignette.html) - TimeScape is a visualization tool for temporal clonal evolution.
 * [SCHISM](https://github.com/KarchinLab/SCHISM) - SCHISM is a computational tool designed to infer subclonal hierarchy and the tumor evolution from somatic mutations.
 
-### 新抗原
+### Neoantigen
 * [MuPeXI](https://github.com/ambj/MuPeXI) - Mutant Peptide eXtractor and Informer
 * [LOHHLA](https://bitbucket.org/mcgranahanlab/lohhla/src/master/)
 
-### 常用工具
+### Tools
 
 * [STRING](https://string-db.org/cgi/input.pl?UserId=1hcUYxDKX0aK&sessionId=xykqPVdtcqrE&input_page_show_search=off) - 蛋白互作
 * [SetRank](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-017-1571-6) - 富集分析
@@ -262,7 +266,7 @@
 * [BamUtil](https://genome.sph.umich.edu/wiki/BamUtil) - bamUtil is a repository that contains several programs that perform operations on SAM/BAM files. 
 * [bamtools](https://github.com/pezmaster31/bamtools) - A small, but powerful suite of command-line utility programs for manipulating and querying BAM files.
 
-### 网站收集
+### Web
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
 * [quinlanlab](http://quinlanlab.org/#portfolioModal6) - Quinlan实验室，分析工具
 * [raphael lab](http://compbio.cs.brown.edu/software) - raphael lab 实验室
@@ -273,33 +277,34 @@
 * [intogen](https://www.intogen.org/search) - 可视化
 
 
-### 微生物/病毒
+### Microbe/Virus
 * [kraken](http://ccb.jhu.edu/software/kraken/MANUAL.html) - Kraken taxonomic sequence classification system
-* [microbiology](http://microbiology.se/) - 有一些分析软件
+* [microbiology](http://microbiology.se/) - 一些分析软件
 * [Parsnp](https://harvest.readthedocs.io/en/latest/index.html) - 细菌/病毒的call SNP
 * [fastv](https://github.com/OpenGene/fastv) - 病毒检测
 
-### 甲基化
-* [ChAMP](http://www.bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html) - 甲基化R包
-* [ChAMP](https://blog.csdn.net/joshua_hit/article/details/54982018) - 甲基化博客
+### Methylation
+* [ChAMP](http://www.bioconductor.org/packages/release/bioc/vignettes/ChAMP/inst/doc/ChAMP.html) - [甲基化R包](https://blog.csdn.net/joshua_hit/article/details/54982018)
 * [Bismark](https://github.com/FelixKrueger/Bismark) - 甲基化比对工具
 * [RESET](http://ciriellolab.org/reset/reset.html) - TCGA Pan-cancer甲基化分析工具
 * [MONOD2](https://github.com/dinhdiep/MONOD2) - 甲基化单体型
 * [MethPipe](http://smithlabresearch.org/software/methpipe/) - a computational pipeline for analyzing bisulfite sequencing data
+* [InfiniumPurify](https://cran.r-project.org/web/packages/InfiniumPurify/index.html) - Estimate and Account for Tumor Purity in Cancer Methylation Data Analysis
+* [minfi](https://bioconductor.org/packages/release/bioc/html/minfi.html) - Analyze Illumina Infinium DNA methylation arrays
 
-### 驱动基因
+### Driver gene
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
 * [OncodriveFML](https://bitbucket.org/bbglab/oncodrivefml)
 * [CovGen](https://github.com/tgen/CovGen) - Creates a target specific exome_full192.coverage.txt file required by MutSig
 
-### 绘图
+### plot
 * [motifStack](https://bioconductor.org/packages/release/bioc/html/motifStack.html) motif绘图
 * [homer](http://homer.ucsd.edu/homer/) - motif
 * 
 ### miRNA
 * [miRbase](http://www.mirbase.org/) - the microRNA database
 
-### 单细胞
+### single-cell
 
 * [scrna-tools](https://www.scrna-tools.org/
 * [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
@@ -333,19 +338,13 @@
 * [deconstructSigs](https://github.com/raerose01/deconstructSigs) - signature分析
 * [SparseSignatures](https://bioconductor.org/packages/release/bioc/html/SparseSignatures.html) - Mutational signature 
 
-### 芯片数据分析
+### Chip-seq
 * [samr](https://cran.r-project.org/web/packages/samr/index.html) - 芯片数据分析，置换检验，没有limma的稳健性好
 * [limma](http://www.bioconductor.org/packages/release/bioc/html/limma.html) - 芯片数据分析，线性模型
 
-### 蛋白分析
-* [OmicsEV](https://github.com/bzhanglab/OmicsEV) - A tool for large scale omics datasets evaluation
-
-
-### 聚类
+### Cluster
 * [iClusterPlus](https://bioconductor.org/packages/release/bioc/html/iClusterPlus.html) - integrative clustering of multiple genomic data sets
 * [CMSclassifier](https://github.com/Sage-Bionetworks/CMSclassifier) - 肠癌分型
 
-### 甲基化
-* [InfiniumPurify](https://cran.r-project.org/web/packages/InfiniumPurify/index.html) - Estimate and Account for Tumor Purity in Cancer Methylation Data Analysis
-* [minfi](https://bioconductor.org/packages/release/bioc/html/minfi.html) - Analyze Illumina Infinium DNA methylation arrays
+
 
