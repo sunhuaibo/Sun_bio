@@ -342,7 +342,8 @@
 
 ### Chip-seq
 * [samr](https://cran.r-project.org/web/packages/samr/index.html) - 芯片数据分析，置换检验，没有limma的稳健性好
-* [limma](http://www.bioconductor.org/packages/release/bioc/html/limma.html) - 芯片数据分析，线性模型
+* [limma](http://www.bioconductor.org/packages/release/bioc/html/limma.html)
+* [HOMER](https://github.com/IGBIllinois/HOMER) - HOMER (Hypergeometric Optimization of Motif EnRichment) is a suite of tools for Motif Discovery and ChIP-Seq analysis. 
 
 ### Cluster
 * [iClusterPlus](https://bioconductor.org/packages/release/bioc/html/iClusterPlus.html) - integrative clustering of multiple genomic data sets
