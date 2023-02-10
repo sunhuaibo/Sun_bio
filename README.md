@@ -293,6 +293,7 @@
 * [MethPipe](http://smithlabresearch.org/software/methpipe/) - a computational pipeline for analyzing bisulfite sequencing data
 * [InfiniumPurify](https://cran.r-project.org/web/packages/InfiniumPurify/index.html) - Estimate and Account for Tumor Purity in Cancer Methylation Data Analysis
 * [minfi](https://bioconductor.org/packages/release/bioc/html/minfi.html) - Analyze Illumina Infinium DNA methylation arrays
+* [GREAT](http://great.stanford.edu/public/html/) - GREAT predicts functions of cis-regulatory regions.
 
 ### Driver gene
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
