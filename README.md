@@ -64,7 +64,8 @@
 * [GenomeAD](http://gnomad.broadinstitute.org/) - 最全人群频率数据库
 * [awesome-bio-datasets](https://github.com/OpenGene/awesome-bio-datasets)
 * [cngb](https://db.cngb.org/pird/home/) - 华大数据库
-* [Orphanet](http://www.orpha.net/consor/cgi-bin/index.php?lng=EN) - 罕见病数据库以及孤儿药物
+* [Orphanet](http://www.orpha.net/consor/cgi-bin/index.php?lng=EN) - 罕见病数据库
+* [jaspar](https://jaspar2022.genereg.net/docs/) - JASPAR is a regularly maintained open-access database storing manually curated TF binding preferences as position frequency matrices (PFMs).
 
 ### Cancer database
 * [CIVIC](https://civic.genome.wustl.edu/home)
