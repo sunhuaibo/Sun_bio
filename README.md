@@ -147,6 +147,7 @@
 * [breakdancer](http://breakdancer.sourceforge.net/) - genome-wide detection of structural variants from next generation paired-end sequencing reads
 * [lumpy](https://github.com/arq5x/lumpy-sv) - A probabilistic framework for structural variant discovery
 * [manta](https://github.com/Illumina/manta) - Structural variant and indel caller
+* [SVision](https://github.com/xjtu-omics/SVision) - Detecting genome structural variants with deep learning in single molecule sequencing
 
 
 ### Gene fusion
