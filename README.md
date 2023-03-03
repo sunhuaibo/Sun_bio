@@ -21,6 +21,7 @@
 * [IMPACT-Pipeline](https://impact-pipeline.readthedocs.io/en/latest/)
 * [maftools](https://bioconductor.org/packages/release/bioc/vignettes/maftools/inst/doc/maftools.html) - Summarize, Analyze and Visualize MAF Files
 * [cfDNApipe](https://github.com/Honchkrow/cfDNApipe) - cfDNApipe(cell free DNA Pipeline) is an integrated pipeline for analyzing cell-free DNA WGBS/WGS data.
+* [gonomics](https://pkg.go.dev/github.com/vertgenlab/gonomics@v0.0.0-20230227214505-2b506bfbcbae) - A collection of genomics software tools written in Go (golang).
 
 ### Purity/ploidy
 * [sequenza](https://cran.r-project.org/web/packages/sequenza/vignettes/sequenza.html#about) - estimate cancer cellularity, ploidy, genome wide copy number profile and infer for mutated alleles.
