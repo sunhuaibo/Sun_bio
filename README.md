@@ -270,6 +270,7 @@
 * [sambamba](https://github.com/biod/sambamba) - bam文件处理工具，类似samtools，速度快
 * [BamUtil](https://genome.sph.umich.edu/wiki/BamUtil) - bamUtil is a repository that contains several programs that perform operations on SAM/BAM files. 
 * [bamtools](https://github.com/pezmaster31/bamtools) - A small, but powerful suite of command-line utility programs for manipulating and querying BAM files.
+* [ngs-bits](https://github.com/imgag/ngs-bits) - Short-read sequencing tools (SampleGender)
 
 ### Web
 * [CCB](https://ccb.jhu.edu/software.shtml) - 约翰霍普金斯大学计算生物学研究中心(RNA分析工具、meta分析工具)
