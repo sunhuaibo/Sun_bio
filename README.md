@@ -248,6 +248,7 @@
 * [citup](https://github.com/amcpherson/citup) - The following package implements the method described in Clonality inference in multiple tumor samples using phylogeny
 * [TimeScape](https://bioconductor.org/packages/release/bioc/vignettes/timescape/inst/doc/timescape_vignette.html) - TimeScape is a visualization tool for temporal clonal evolution.
 * [SCHISM](https://github.com/KarchinLab/SCHISM) - SCHISM is a computational tool designed to infer subclonal hierarchy and the tumor evolution from somatic mutations.
+* [EstimateClonality](https://bitbucket.org/nmcgranahan/pancancerclonality/src/master/EstimateClonality/)
 
 ### Neoantigen
 * [MuPeXI](https://github.com/ambj/MuPeXI) - Mutant Peptide eXtractor and Informer
