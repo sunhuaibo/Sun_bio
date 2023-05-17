@@ -356,5 +356,7 @@
 * [iClusterPlus](https://bioconductor.org/packages/release/bioc/html/iClusterPlus.html) - integrative clustering of multiple genomic data sets
 * [CMSclassifier](https://github.com/Sage-Bionetworks/CMSclassifier) - 肠癌分型
 
+### NIPT
+* [wisecondor](https://github.com/VUmcCGP/wisecondor) - Detect fetal trisomies and smaller CNV's in a maternal plasma sample using whole-genome data.
 
 
