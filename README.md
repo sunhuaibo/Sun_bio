@@ -94,6 +94,7 @@
 * [trackViewer](https://bioconductor.org/packages/release/bioc/html/trackViewer.html)
 * [mygene](http://docs.mygene.info/en/latest/index.html) - 基因ID转换
 * [transvar](https://transvar.readthedocs.io/en/latest/index.html) - MD Anderson开发的注释工具
+* [vep](https://grch37.ensembl.org/info/docs/tools/vep/script/index.html)
 
 
 ### QC
