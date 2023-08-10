@@ -106,6 +106,7 @@
 * [MultiQC](https://github.com/ewels/MultiQC) - 整合QC质控结果
 * [Conpair](https://github.com/nygenome/Conpair) - 计算肿瘤样本VS对照样本配对和污染情况
 * [contatester](https://github.com/CNRGH/contatester) - Compute the Allelic Balance of a sample from a VCF file, check if a cross human contamination is present and estimate the degree of contamination.
+* [preseq](https://github.com/smithlabcode/preseq) - Software for predicting library complexity and genome coverage in high-throughput sequencing.
 
 ### UMI
 * [ConsensusCruncher](https://github.com/pughlab/ConsensusCruncher) - ConsensusCruncher is a tool that suppresses errors in next-generation sequencing data by using unique molecular identifers (UMIs) to amalgamate reads derived from the same DNA template into a consensus sequence.
