@@ -304,6 +304,7 @@
 * [InfiniumPurify](https://cran.r-project.org/web/packages/InfiniumPurify/index.html) - Estimate and Account for Tumor Purity in Cancer Methylation Data Analysis
 * [minfi](https://bioconductor.org/packages/release/bioc/html/minfi.html) - Analyze Illumina Infinium DNA methylation arrays
 * [GREAT](http://great.stanford.edu/public/html/) - GREAT predicts functions of cis-regulatory regions.
+* [gemBS](http://statgen.cnag.cat/gemBS/v3/UserGuide/_build/html/index.html) [ENCODE]https://www.encodeproject.org/pipelines/ENCPL182IUX/]
 
 ### Driver gene
 * [mutsigcv](http://software.broadinstitute.org/cancer/software/genepattern/modules/docs/mutsigcv) - 驱动基因
