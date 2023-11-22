@@ -267,6 +267,7 @@
 * [bam-readcount](https://github.com/genome/bam-readcount) - 位点深度统计
 * [somaticfreq](https://github.com/PoisonAlien/somaticfreq) - knowledge-based genotyping of targetted somatic variants from the tumor BAM file
 * [Wgsim](https://github.com/lh3/wgsim) - 数据模拟
+* [DWGSIM](https://github.com/nh13/DWGSIM) - 数据模拟
 * [bamgineer](https://github.com/pughlab/bamgineer) - 数据模拟
 * [vcf2bed](http://bedops.readthedocs.io/en/latest/content/reference/file-management/conversion/vcf2bed.html)
 * [slicer](https://github.com/OpenGene/slicer) - Slice a text file (like FastQ) to smaller files by lines, with gzip supported
