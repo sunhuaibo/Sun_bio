@@ -174,6 +174,10 @@
 * [MANTIS](https://github.com/OSU-SRLab/MANTIS) - Microsatellite Analysis for Normal-Tumor InStability
 * [VisualMSI](https://github.com/OpenGene/VisualMSI)
 
+### STR
+* [GangSTR](https://github.com/gymreklab/gangstr)
+* [ExpansionHunter](https://github.com/Illumina/ExpansionHunter)
+
 ### HRD
 * [scarHRD](https://github.com/sztup/scarHRD) - scarHRD is an R package which determines the levels of homologous recombination deficiency (telomeric allelic imbalance, loss off heterozygosity, number of large-scale transitions) based on NGS (WES, WGS) data.
 
